@@ -2228,11 +2228,17 @@
           "type": "WIDGET",
           "widgetId": "widget_939",
           "bbox": {}
+        },
+        "6": {
+          "type": "WIDGET",
+          "widgetId": "widget_942",
+          "bbox": {}
         }
       },
       "type": "FIXED",
       "label": "Controller layout",
       "order": [
+        "6",
         "5",
         "0",
         "2"
@@ -72484,6 +72490,32 @@
       "useMapWidgetIds": [
         "widget_769"
       ]
+    },
+    "widget_942": {
+      "uri": "widgets/walking-route-search-main/",
+      "version": "1.13.0",
+      "icon": {
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"#000\" fill-rule=\"evenodd\" d=\"M13 6.133c0 .598-.28 1.46-.825 2.51-.53 1.02-1.247 2.102-1.981 3.102A46 46 0 0 1 8 14.492a48 48 0 0 1-2.194-2.747c-.734-1-1.451-2.081-1.98-3.102C3.28 7.593 3 6.731 3 6.133 3 3.277 5.26 1 8 1s5 2.277 5 5.133m1 0c0 2.685-3.768 7.311-5.332 9.115C8.258 15.722 8 16 8 16s-.258-.279-.668-.751C5.768 13.444 2 8.817 2 6.133 2 2.746 4.686 0 8 0s6 2.746 6 6.133M10 5.5a2 2 0 1 1-4 0 2 2 0 0 1 4 0m1 0a3 3 0 1 1-6 0 3 3 0 0 1 6 0\" clip-rule=\"evenodd\"></path></svg>",
+        "properties": {
+          "filename": "Pin",
+          "color": "var(--dark-800)",
+          "originalName": "outlined/application/pin.svg",
+          "path": [
+            "general",
+            "mapPin"
+          ],
+          "isUploaded": false,
+          "inlineSvg": true
+        }
+      },
+      "label": "Walking Route Search",
+      "config": {
+        "exampleConfigProperty": "test"
+      },
+      "id": "widget_942",
+      "useMapWidgetIds": [
+        "widget_70"
+      ]
     }
   },
   "widgetsManifest": {},
@@ -95114,7 +95146,7 @@
       "page_6": []
     }
   ],
-  "timestamp": 1730043492722,
+  "timestamp": 1730215077525,
   "attributes": {
     "portalUrl": "https://jcdisi.maps.arcgis.com"
   },

@@ -9910,5 +9910,36 @@
     "icon": "widgets/slider-filter-test/icon.svg",
     "order": 700,
     "group": 7
+  },
+  {
+    "name": "walking-route-search-main",
+    "manifest": {
+      "name": "walking-route-search-main",
+      "label": "Walking Route Search",
+      "type": "widget",
+      "version": "1.13.0",
+      "exbVersion": "1.13.0",
+      "author": "JCDISI Project Team",
+      "dependency": [
+        "jimu-arcgis"
+      ],
+      "description": "Get map coordinates demo widget.",
+      "copyright": "csdidi project team",
+      "license": "http://www.apache.org/licenses/LICENSE-2.0",
+      "properties": {},
+      "translatedLocales": [
+        "en"
+      ],
+      "defaultSize": {
+        "width": 800,
+        "height": 500
+      }
+    },
+    "i18nLabel": {},
+    "i18nDescription": {},
+    "uri": "widgets/walking-route-search-main/",
+    "icon": "widgets/walking-route-search-main/icon.svg",
+    "order": 700,
+    "group": 7
   }
 ]
