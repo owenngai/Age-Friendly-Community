@@ -14354,16 +14354,6 @@
     },
     "layout_485": {
       "content": {
-        "0": {
-          "type": "WIDGET",
-          "widgetId": "widget_956",
-          "bbox": {}
-        },
-        "2": {
-          "type": "WIDGET",
-          "widgetId": "widget_957",
-          "bbox": {}
-        },
         "5": {
           "type": "WIDGET",
           "widgetId": "widget_958",
@@ -14385,23 +14375,11 @@
       "order": [
         "9",
         "8",
-        "5",
-        "0",
-        "2"
+        "5"
       ]
     },
     "layout_486": {
       "content": {
-        "0": {
-          "type": "WIDGET",
-          "widgetId": "widget_962",
-          "bbox": {}
-        },
-        "2": {
-          "type": "WIDGET",
-          "widgetId": "widget_963",
-          "bbox": {}
-        },
         "5": {
           "type": "WIDGET",
           "widgetId": "widget_964",
@@ -14423,9 +14401,7 @@
       "order": [
         "9",
         "8",
-        "5",
-        "0",
-        "2"
+        "5"
       ]
     }
   },
@@ -16318,7 +16294,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -16575,7 +16551,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -17356,7 +17332,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -17613,7 +17589,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -18152,7 +18128,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -18409,7 +18385,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -19190,7 +19166,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -19744,7 +19720,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -20001,7 +19977,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -20797,7 +20773,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -21054,7 +21030,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -21311,7 +21287,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -22092,7 +22068,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -22873,7 +22849,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-       "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -23130,7 +23106,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -23966,7 +23942,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -24480,7 +24456,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-       "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -25019,7 +24995,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-       "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -25276,7 +25252,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -26571,7 +26547,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -28319,7 +28295,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -28576,7 +28552,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -29566,7 +29542,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -30861,7 +30837,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -31118,7 +31094,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -31642,7 +31618,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -31899,7 +31875,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -32608,7 +32584,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -33646,7 +33622,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-       "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -33903,7 +33879,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -35960,7 +35936,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -37915,7 +37891,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -38938,7 +38914,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -39462,7 +39438,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -39719,7 +39695,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -40379,7 +40355,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -40636,7 +40612,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-       "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -40893,7 +40869,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -42638,7 +42614,8 @@
           "canZoom": true,
           "canHome": true,
           "canSearch": false,
-          "canNavigation": true
+          "canNavigation": true,
+          "canLayers": true
         },
         "isUseCustomMapState": true,
         "initialMapDataSourceID": "dataSource_157",
@@ -45566,7 +45543,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -46080,7 +46057,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -46977,7 +46954,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -47892,7 +47869,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -48149,7 +48126,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -48406,7 +48383,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -48945,7 +48922,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -49202,7 +49179,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -49459,7 +49436,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -49943,7 +49920,8 @@
           "canZoom": true,
           "canHome": true,
           "canSearch": false,
-          "canNavigation": true
+          "canNavigation": true,
+          "canLayers": true
         },
         "isUseCustomMapState": true,
         "initialMapDataSourceID": "dataSource_157",
@@ -51410,7 +51388,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -51934,7 +51912,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -52191,7 +52169,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -52990,7 +52968,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -53247,7 +53225,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -54285,7 +54263,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -55133,7 +55111,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -55647,7 +55625,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -56685,7 +56663,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -57209,7 +57187,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -57466,7 +57444,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -57723,7 +57701,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -58247,7 +58225,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -58794,7 +58772,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -59051,7 +59029,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -59308,7 +59286,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -59832,7 +59810,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -60840,7 +60818,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -61354,7 +61332,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -62150,7 +62128,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -62708,7 +62686,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -63282,7 +63260,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -63539,7 +63517,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -64335,7 +64313,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -64592,7 +64570,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -64849,7 +64827,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -65724,7 +65702,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -65981,7 +65959,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -66759,7 +66737,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -67273,7 +67251,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -68760,37 +68738,6 @@
         }
       }
     },
-    "widget_956": {
-      "uri": "widgets/arcgis/legend/",
-      "version": "1.15.0",
-      "label": "Legend",
-      "config": {
-        "legendMode": "show-visible",
-        "style": {
-          "useCustom": false
-        },
-        "cardStyle": false,
-        "showBaseMap": false
-      },
-      "id": "widget_956",
-      "useMapWidgetIds": [
-        "widget_70"
-      ]
-    },
-    "widget_957": {
-      "uri": "widgets/arcgis/map-layers/",
-      "version": "1.15.0",
-      "label": "Map Layers",
-      "config": {
-        "useMapWidget": true,
-        "useTickBoxes": false
-      },
-      "id": "widget_957",
-      "useMapWidgetIds": [
-        "widget_70"
-      ],
-      "enableDataAction": false
-    },
     "widget_958": {
       "uri": "widgets/slider-filter-test/",
       "version": "1.15.0",
@@ -68880,37 +68827,6 @@
           "LARGE": "layout_486"
         }
       }
-    },
-    "widget_962": {
-      "uri": "widgets/arcgis/legend/",
-      "version": "1.15.0",
-      "label": "Legend",
-      "config": {
-        "legendMode": "show-visible",
-        "style": {
-          "useCustom": false
-        },
-        "cardStyle": false,
-        "showBaseMap": false
-      },
-      "id": "widget_962",
-      "useMapWidgetIds": [
-        "widget_70"
-      ]
-    },
-    "widget_963": {
-      "uri": "widgets/arcgis/map-layers/",
-      "version": "1.15.0",
-      "label": "Map Layers",
-      "config": {
-        "useMapWidget": true,
-        "useTickBoxes": false
-      },
-      "id": "widget_963",
-      "useMapWidgetIds": [
-        "widget_70"
-      ],
-      "enableDataAction": false
     },
     "widget_964": {
       "uri": "widgets/slider-filter-test/",
@@ -92188,7 +92104,7 @@
       "page_6": []
     }
   ],
-  "timestamp": 1734458241535,
+  "timestamp": 1736352090486,
   "attributes": {
     "portalUrl": "https://jcdisi.maps.arcgis.com"
   },

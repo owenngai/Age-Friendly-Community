@@ -14354,16 +14354,6 @@
     },
     "layout_485": {
       "content": {
-        "0": {
-          "type": "WIDGET",
-          "widgetId": "widget_956",
-          "bbox": {}
-        },
-        "2": {
-          "type": "WIDGET",
-          "widgetId": "widget_957",
-          "bbox": {}
-        },
         "5": {
           "type": "WIDGET",
           "widgetId": "widget_958",
@@ -14385,23 +14375,11 @@
       "order": [
         "9",
         "8",
-        "5",
-        "0",
-        "2"
+        "5"
       ]
     },
     "layout_486": {
       "content": {
-        "0": {
-          "type": "WIDGET",
-          "widgetId": "widget_962",
-          "bbox": {}
-        },
-        "2": {
-          "type": "WIDGET",
-          "widgetId": "widget_963",
-          "bbox": {}
-        },
         "5": {
           "type": "WIDGET",
           "widgetId": "widget_964",
@@ -14423,9 +14401,7 @@
       "order": [
         "9",
         "8",
-        "5",
-        "0",
-        "2"
+        "5"
       ]
     }
   },
@@ -14515,7 +14491,6 @@
       "label": "Text 5",
       "config": {
         "text": "<p style=\"text-align: left; line-height: 1;\"><strong style=\"letter-spacing: 0px; font-size: 36px; font-family: &quot;Avenir Next&quot;; color: rgb(177, 189, 203);\"> </strong><strong style=\"letter-spacing: 0px; font-size: 28px; font-family: &quot;Avenir Next&quot;; color: rgb(177, 189, 203);\">Age-Friendly Community(造就適老化社區)</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -15654,7 +15629,6 @@
       "label": "Text 11",
       "config": {
         "text": "<p style=\"line-height: 2; text-align: center;\"><strong style=\"font-size: 24px; color: var(--info-900);\">Open Space - Service Support</strong><strong style=\"font-size: 24px;\">﻿</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -16318,7 +16292,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -16575,7 +16549,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -17356,7 +17330,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -17613,7 +17587,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -18152,7 +18126,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -18409,7 +18383,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -19190,7 +19164,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -19744,7 +19718,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -20001,7 +19975,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -20797,7 +20771,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -21054,7 +21028,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -21311,7 +21285,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -22092,7 +22066,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -22873,7 +22847,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-       "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -23130,7 +23104,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -23625,7 +23599,6 @@
       "label": "Text 14",
       "config": {
         "text": "<p style=\"text-align: center;\"><span style=\"font-size: 28px;\">Score:</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -23966,7 +23939,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -24480,7 +24453,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-       "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -25019,7 +24992,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-       "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -25276,7 +25249,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -26571,7 +26544,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -27650,7 +27623,6 @@
       "label": "Text 15",
       "config": {
         "text": "<p style=\"text-align: center;\"><span style=\"font-size: 28px;\">Score:</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -27685,7 +27657,6 @@
       "label": "Text 17",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2;\"><strong style=\"color: var(--info-900); font-size: 24px;\">Open Space - Comfort</strong><strong style=\"font-size: 24px;\">﻿</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -28319,7 +28290,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -28576,7 +28547,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -29139,7 +29110,6 @@
       "label": "Text 18",
       "config": {
         "text": "<p style=\"text-align: center;\"><span style=\"font-size: 28px;\">Score:</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -29174,7 +29144,6 @@
       "label": "Text 20",
       "config": {
         "text": "<p style=\"line-height: 2; text-align: center;\"><strong style=\"font-size: 24px; color: var(--info-900);\">Open Space - Social Interaction</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -29566,7 +29535,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -30861,7 +30830,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -31118,7 +31087,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -31642,7 +31611,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -31899,7 +31868,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -32196,7 +32165,6 @@
       "label": "Text 21",
       "config": {
         "text": "<p style=\"text-align: center;\"><span style=\"font-size: 28px;\">Score:</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -32231,7 +32199,6 @@
       "label": "Text 23",
       "config": {
         "text": "<p style=\"line-height: 2; text-align: center;\"><strong style=\"font-size: 24px; color: var(--info-900);\">Open Space - Convenience</strong><strong style=\"font-size: 24px;\">﻿</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -32608,7 +32575,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -33646,7 +33613,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-       "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -33903,7 +33870,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -34981,7 +34948,6 @@
       "label": "Text 24",
       "config": {
         "text": "<p style=\"text-align: center;\"><span style=\"font-size: 28px;\">Score:</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -35016,7 +34982,6 @@
       "label": "Text 25",
       "config": {
         "text": "<p style=\"text-align: center;\">  <exp data-uniqueid=\"a254c7ad_d6a9_d9bd_b95a_348db3e67d0e\" data-dsid=\"dataSource_157-190f3ea6612-layer-91,dataSource_157-190f3ea6612-layer-91-selection\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">COUNT({ObjectId})</span>﻿</exp> </p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -35054,7 +35019,6 @@
       "label": "Text 26",
       "config": {
         "text": "<p style=\"line-height: 2; text-align: center;\"><strong style=\"font-size: 24px; color: var(--info-900);\">Open Space - Safety</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -35960,7 +35924,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -37056,7 +37020,6 @@
       "label": "Text 27",
       "config": {
         "text": "<p style=\"text-align: center;\"><span style=\"font-size: 28px;\">Score:</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -37091,7 +37054,6 @@
       "label": "Text 28",
       "config": {
         "text": "<p style=\"line-height: 2; text-align: center;\"><strong style=\"font-size: 24px; color: var(--info-900);\">Mobility - Safety</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -37915,7 +37877,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -38938,7 +38900,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -39462,7 +39424,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -39719,7 +39681,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -40019,7 +39981,6 @@
       "label": "Text 29",
       "config": {
         "text": "<p style=\"text-align: center;\"><span style=\"font-size: 28px;\">Score:</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -40054,7 +40015,6 @@
       "label": "Text 30",
       "config": {
         "text": "<p style=\"line-height: 2; text-align: center;\"><strong style=\"font-size: 24px; color: var(--info-900);\">Mobility - Convenience</strong><strong style=\"font-size: 24px;\">﻿</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -40379,7 +40339,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -40636,7 +40596,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-       "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -40893,7 +40853,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -41192,7 +41152,6 @@
       "label": "Text 31",
       "config": {
         "text": "<p style=\"text-align: center;\"><span style=\"font-size: 28px;\">Score:</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -41227,7 +41186,6 @@
       "label": "Text 32",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2;\"><strong style=\"color: var(--info-900); font-size: 24px;\">Mobility - Comfort</strong><strong style=\"font-size: 24px;\">﻿</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -42350,7 +42308,6 @@
       "label": "Text 33",
       "config": {
         "text": "<p style=\"text-align: center;\"><span style=\"font-size: 28px;\">Score:</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -42385,7 +42342,6 @@
       "label": "Text 34",
       "config": {
         "text": "<p style=\"line-height: 2; text-align: center;\"><strong style=\"font-size: 24px; color: var(--info-900);\">Mobility - Service Support</strong><strong style=\"font-size: 24px;\">﻿</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -42566,7 +42522,6 @@
       "label": "Text 35",
       "config": {
         "text": "<p style=\"text-align: center;\"><span style=\"font-size: 28px;\">Score:</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -42601,7 +42556,6 @@
       "label": "Text 36",
       "config": {
         "text": "<p style=\"line-height: 2; text-align: center;\"><strong style=\"font-size: 24px; color: var(--info-900);\">Mobility - Social Interaction</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -42615,7 +42569,6 @@
       "label": "Text 37",
       "config": {
         "text": "<p style=\"text-align: left; line-height: 1;\"><strong style=\"letter-spacing: 0px; font-size: 36px; font-family: &quot;Avenir Next&quot;; color: rgb(177, 189, 203);\"> </strong><strong style=\"letter-spacing: 0px; font-size: 28px; font-family: &quot;Avenir Next&quot;; color: rgb(177, 189, 203);\">Age-Friendly Community(造就適老化社區)</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -42638,7 +42591,8 @@
           "canZoom": true,
           "canHome": true,
           "canSearch": false,
-          "canNavigation": true
+          "canNavigation": true,
+          "canLayers": true
         },
         "isUseCustomMapState": true,
         "initialMapDataSourceID": "dataSource_157",
@@ -45206,7 +45160,6 @@
       "label": "Text 39",
       "config": {
         "text": "<p style=\"text-align: center;\"><span style=\"font-size: 28px;\">Score:</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -45241,7 +45194,6 @@
       "label": "Text 40",
       "config": {
         "text": "<p style=\"line-height: 2; text-align: center;\"><strong style=\"font-size: 24px; color: var(--info-900);\">Facility - Safety</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -45566,7 +45518,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -46080,7 +46032,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -46375,7 +46327,6 @@
       "label": "Text 41",
       "config": {
         "text": "<p style=\"text-align: center;\"><span style=\"font-size: 28px;\">Score:</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -46410,7 +46361,6 @@
       "label": "Text 42",
       "config": {
         "text": "<p style=\"line-height: 2; text-align: center;\"><strong style=\"font-size: 24px; color: var(--info-900);\">Facility - Convenience</strong><strong style=\"font-size: 24px;\">﻿</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -46977,7 +46927,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -47532,7 +47482,6 @@
       "label": "Text 43",
       "config": {
         "text": "<p style=\"text-align: center;\"><span style=\"font-size: 28px;\">Score:</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -47567,7 +47516,6 @@
       "label": "Text 44",
       "config": {
         "text": "<p style=\"text-align: center; line-height: 2;\"><strong style=\"color: var(--info-900); font-size: 24px;\">Facility - Comfort</strong><strong style=\"font-size: 24px;\">﻿</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -47892,7 +47840,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -48149,7 +48097,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -48406,7 +48354,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -48945,7 +48893,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -49202,7 +49150,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -49459,7 +49407,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -49755,7 +49703,6 @@
       "label": "Text 45",
       "config": {
         "text": "<p style=\"text-align: center;\"><span style=\"font-size: 28px;\">Score:</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -49790,7 +49737,6 @@
       "label": "Text 46",
       "config": {
         "text": "<p style=\"line-height: 2; text-align: center;\"><strong style=\"font-size: 24px; color: var(--info-900);\">Facility - Service Support</strong><strong style=\"font-size: 24px;\">﻿</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -49871,7 +49817,6 @@
       "label": "Text 47",
       "config": {
         "text": "<p style=\"text-align: center;\"><span style=\"font-size: 28px;\">Score:</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -49906,7 +49851,6 @@
       "label": "Text 48",
       "config": {
         "text": "<p style=\"line-height: 2; text-align: center;\"><strong style=\"font-size: 24px; color: var(--info-900);\">Facility - Social Interaction</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -49920,7 +49864,6 @@
       "label": "Text 49",
       "config": {
         "text": "<p style=\"text-align: left; line-height: 1;\"><strong style=\"letter-spacing: 0px; font-size: 36px; font-family: &quot;Avenir Next&quot;; color: rgb(177, 189, 203);\"> </strong><strong style=\"letter-spacing: 0px; font-size: 28px; font-family: &quot;Avenir Next&quot;; color: rgb(177, 189, 203);\">Age-Friendly Community(造就適老化社區)</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -49943,7 +49886,8 @@
           "canZoom": true,
           "canHome": true,
           "canSearch": false,
-          "canNavigation": true
+          "canNavigation": true,
+          "canLayers": true
         },
         "isUseCustomMapState": true,
         "initialMapDataSourceID": "dataSource_157",
@@ -51410,7 +51354,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -51934,7 +51878,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -52191,7 +52135,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -52990,7 +52934,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -53247,7 +53191,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -54285,7 +54229,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -55133,7 +55077,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -55647,7 +55591,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -56685,7 +56629,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -57209,7 +57153,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -57466,7 +57410,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -57723,7 +57667,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -58247,7 +58191,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -58794,7 +58738,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -59051,7 +58995,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -59308,7 +59252,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -59832,7 +59776,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -60840,7 +60784,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -61354,7 +61298,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -62150,7 +62094,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -62708,7 +62652,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -63282,7 +63226,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -63539,7 +63483,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -64335,7 +64279,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -64592,7 +64536,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -64849,7 +64793,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -65724,7 +65668,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -65981,7 +65925,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -66759,7 +66703,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -67273,7 +67217,7 @@
         "options": {
           "hideEmptySeriesInLegend": false
         },
-         "template": "donut",
+        "template": "donut",
         "webChart": {
           "version": "9.4.0",
           "id": "donut",
@@ -67760,7 +67704,6 @@
       "label": "Text 53",
       "config": {
         "text": "<p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Public Services / Facilities: </strong><strong style=\"font-size: 22px; color: rgb(255, 255, 255);\"><exp data-uniqueid=\"f5655b67_a9e5_67ae_e1b6_d2e2438bbe9d\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2,dataSource_157-190f3ea6612-layer-91-dataView_3,dataSource_157-190f3ea6612-layer-91-dataView_4,dataSource_157-190f3ea6612-layer-91-dataView_5\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_5%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿COUNT({ObjectId})﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong><strong style=\"font-size: 22px; color: var(--info-900);\"> </strong></p><p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Religion:</strong><strong style=\"font-size: 22px; color: rgb(255, 255, 255);\"><exp data-uniqueid=\"f9f24675_0716_9fc7_a79a_35ed4382a127\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2,dataSource_157-190f3ea6612-layer-91-dataView_3,dataSource_157-190f3ea6612-layer-91-dataView_4,dataSource_157-190f3ea6612-layer-91-dataView_5,dataSource_157-190f3ea6612-layer-91-dataView_6,dataSource_157-190f3ea6612-layer-91-dataView_7,dataSource_157-190f3ea6612-layer-91-dataView_8\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_6%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿COUNT({ObjectId})﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong><strong style=\"font-size: 22px; color: var(--info-900);\">  </strong></p><p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Transportation:</strong><strong style=\"font-size: 22px; color: rgb(255, 255, 255);\"><exp data-uniqueid=\"b6639782_39cb_731c_8bca_9302f49f0347\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2,dataSource_157-190f3ea6612-layer-91-dataView_3,dataSource_157-190f3ea6612-layer-91-dataView_4,dataSource_157-190f3ea6612-layer-91-dataView_5,dataSource_157-190f3ea6612-layer-91-dataView_6,dataSource_157-190f3ea6612-layer-91-dataView_7,dataSource_157-190f3ea6612-layer-91-dataView_8\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_7%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿COUNT({ObjectId})﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong><strong style=\"font-size: 22px; color: var(--info-900);\">  </strong></p><p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Tourism:</strong><strong style=\"font-size: 22px; color: rgb(255, 255, 255);\"><exp data-uniqueid=\"aa4fa2df_a7ec_d84e_447d_4f4cffd57d01\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2,dataSource_157-190f3ea6612-layer-91-dataView_3,dataSource_157-190f3ea6612-layer-91-dataView_4,dataSource_157-190f3ea6612-layer-91-dataView_5,dataSource_157-190f3ea6612-layer-91-dataView_6,dataSource_157-190f3ea6612-layer-91-dataView_7,dataSource_157-190f3ea6612-layer-91-dataView_8\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_8%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿COUNT({ObjectId})﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong><strong style=\"font-size: 22px; color: var(--info-900);\">  </strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -67922,7 +67865,6 @@
       "label": "Text 54",
       "config": {
         "text": "<p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Community Facilities : </strong><strong style=\"font-size: 22px; color: rgb(255, 255, 255);\"><exp data-uniqueid=\"ffd464c5_aca0_78d4_3ede_bd945ebadaf0\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BCLASS%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_1%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿COUNT({CLASS})﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp> </strong><strong style=\"font-size: 22px; color: var(--info-900);\">   </strong></p><p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Education: </strong><strong style=\"font-size: 22px;\"><exp data-uniqueid=\"7323cd5b_7a72_71ed_853b_18c22bf73e4d\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2,dataSource_157-190f3ea6612-layer-91-dataView_3,dataSource_157-190f3ea6612-layer-91-dataView_4,dataSource_157-190f3ea6612-layer-91-selection\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_2%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">COUNT({ObjectId})</span>﻿</exp></strong> </p><p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Recreation:</strong><strong style=\"font-size: 22px; color: rgb(255, 255, 255);\"><exp data-uniqueid=\"d77ecd3a_63b3_7962_82cb_c494391bedfd\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2,dataSource_157-190f3ea6612-layer-91-dataView_3\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_3%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿COUNT({ObjectId})﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong><strong style=\"font-size: 22px; color: var(--info-900);\"> </strong></p><p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Medical:</strong><strong style=\"font-size: 22px; color: rgb(255, 255, 255);\"><exp data-uniqueid=\"d6d6dcc5_580c_fba9_18c2_1ba25dbf9062\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2,dataSource_157-190f3ea6612-layer-91-dataView_3,dataSource_157-190f3ea6612-layer-91-dataView_4\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_4%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿COUNT({ObjectId})﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp> </strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -67988,7 +67930,6 @@
       "label": "Text 55",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px; color: var(--info-900);\">POI</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -68202,7 +68143,6 @@
       "label": "Text 56",
       "config": {
         "text": "<p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Community Facilities : </strong><strong style=\"font-size: 22px; color: rgb(255, 255, 255);\"><exp data-uniqueid=\"ffd464c5_aca0_78d4_3ede_bd945ebadaf0\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BCLASS%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_1%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿COUNT({CLASS})﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp> </strong><strong style=\"font-size: 22px; color: var(--info-900);\">   </strong></p><p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Education:<exp data-uniqueid=\"3a297f56_2551_c267_0bd2_ed89f8ab0089\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2,dataSource_157-190f3ea6612-layer-91-dataView_3,dataSource_157-190f3ea6612-layer-91-dataView_4,dataSource_157-190f3ea6612-layer-91-selection\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_2%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿COUNT({ObjectId})﻿﻿</span>﻿</exp>  </strong></p><p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Recreation:</strong><strong style=\"font-size: 22px; color: rgb(255, 255, 255);\"><exp data-uniqueid=\"d77ecd3a_63b3_7962_82cb_c494391bedfd\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2,dataSource_157-190f3ea6612-layer-91-dataView_3\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_3%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿COUNT({ObjectId})﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong><strong style=\"font-size: 22px; color: var(--info-900);\"> </strong></p><p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Medical:</strong><strong style=\"font-size: 22px; color: rgb(255, 255, 255);\"><exp data-uniqueid=\"d6d6dcc5_580c_fba9_18c2_1ba25dbf9062\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2,dataSource_157-190f3ea6612-layer-91-dataView_3,dataSource_157-190f3ea6612-layer-91-dataView_4\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_4%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿COUNT({ObjectId})﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp> </strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -68268,7 +68208,6 @@
       "label": "Text 57",
       "config": {
         "text": "<p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Community Facilities : </strong><strong style=\"font-size: 22px; color: rgb(255, 255, 255);\"><exp data-uniqueid=\"ffd464c5_aca0_78d4_3ede_bd945ebadaf0\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BCLASS%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_1%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿COUNT({CLASS})﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp> </strong><strong style=\"font-size: 22px; color: var(--info-900);\">   </strong></p><p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Education:</strong><strong style=\"font-size: 22px; color: var(--dark);\"><exp data-uniqueid=\"164c938a_e250_fba2_b205_bf995f73c89c\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2,dataSource_157-190f3ea6612-layer-91-dataView_3,dataSource_157-190f3ea6612-layer-91-dataView_4,dataSource_157-190f3ea6612-layer-91-selection\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_2%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿COUNT({ObjectId})﻿﻿</span>﻿</exp></strong><strong style=\"font-size: 22px; color: var(--info-900);\">  </strong></p><p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Recreation:</strong><strong style=\"font-size: 22px; color: rgb(255, 255, 255);\"><exp data-uniqueid=\"d77ecd3a_63b3_7962_82cb_c494391bedfd\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2,dataSource_157-190f3ea6612-layer-91-dataView_3\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_3%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿COUNT({ObjectId})﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong><strong style=\"font-size: 22px; color: var(--info-900);\"> </strong></p><p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Medical:</strong><strong style=\"font-size: 22px; color: rgb(255, 255, 255);\"><exp data-uniqueid=\"d6d6dcc5_580c_fba9_18c2_1ba25dbf9062\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2,dataSource_157-190f3ea6612-layer-91-dataView_3,dataSource_157-190f3ea6612-layer-91-dataView_4\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_4%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿COUNT({ObjectId})﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp> </strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -68334,7 +68273,6 @@
       "label": "Text 58",
       "config": {
         "text": "<p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Public Services / Facilities: </strong><strong style=\"font-size: 22px; color: rgb(255, 255, 255);\"><exp data-uniqueid=\"f5655b67_a9e5_67ae_e1b6_d2e2438bbe9d\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2,dataSource_157-190f3ea6612-layer-91-dataView_3,dataSource_157-190f3ea6612-layer-91-dataView_4,dataSource_157-190f3ea6612-layer-91-dataView_5\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_5%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿COUNT({ObjectId})﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong><strong style=\"font-size: 22px; color: var(--info-900);\"> </strong></p><p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Religion:</strong><strong style=\"font-size: 22px; color: rgb(255, 255, 255);\"><exp data-uniqueid=\"f9f24675_0716_9fc7_a79a_35ed4382a127\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2,dataSource_157-190f3ea6612-layer-91-dataView_3,dataSource_157-190f3ea6612-layer-91-dataView_4,dataSource_157-190f3ea6612-layer-91-dataView_5,dataSource_157-190f3ea6612-layer-91-dataView_6,dataSource_157-190f3ea6612-layer-91-dataView_7,dataSource_157-190f3ea6612-layer-91-dataView_8\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_6%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿COUNT({ObjectId})﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong><strong style=\"font-size: 22px; color: var(--info-900);\">  </strong></p><p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Transportation:</strong><strong style=\"font-size: 22px; color: rgb(255, 255, 255);\"><exp data-uniqueid=\"b6639782_39cb_731c_8bca_9302f49f0347\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2,dataSource_157-190f3ea6612-layer-91-dataView_3,dataSource_157-190f3ea6612-layer-91-dataView_4,dataSource_157-190f3ea6612-layer-91-dataView_5,dataSource_157-190f3ea6612-layer-91-dataView_6,dataSource_157-190f3ea6612-layer-91-dataView_7,dataSource_157-190f3ea6612-layer-91-dataView_8\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_7%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿COUNT({ObjectId})﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong><strong style=\"font-size: 22px; color: var(--info-900);\">  </strong></p><p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Tourism:</strong><strong style=\"font-size: 22px; color: rgb(255, 255, 255);\"><exp data-uniqueid=\"aa4fa2df_a7ec_d84e_447d_4f4cffd57d01\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2,dataSource_157-190f3ea6612-layer-91-dataView_3,dataSource_157-190f3ea6612-layer-91-dataView_4,dataSource_157-190f3ea6612-layer-91-dataView_5,dataSource_157-190f3ea6612-layer-91-dataView_6,dataSource_157-190f3ea6612-layer-91-dataView_7,dataSource_157-190f3ea6612-layer-91-dataView_8\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_8%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿COUNT({ObjectId})﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong><strong style=\"font-size: 22px; color: var(--info-900);\">  </strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -68400,7 +68338,6 @@
       "label": "Text 59",
       "config": {
         "text": "<p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Public Services / Facilities: </strong><strong style=\"font-size: 22px; color: rgb(255, 255, 255);\"><exp data-uniqueid=\"f5655b67_a9e5_67ae_e1b6_d2e2438bbe9d\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2,dataSource_157-190f3ea6612-layer-91-dataView_3,dataSource_157-190f3ea6612-layer-91-dataView_4,dataSource_157-190f3ea6612-layer-91-dataView_5\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_5%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿COUNT({ObjectId})﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong><strong style=\"font-size: 22px; color: var(--info-900);\"> </strong></p><p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Religion:</strong><strong style=\"font-size: 22px; color: rgb(255, 255, 255);\"><exp data-uniqueid=\"f9f24675_0716_9fc7_a79a_35ed4382a127\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2,dataSource_157-190f3ea6612-layer-91-dataView_3,dataSource_157-190f3ea6612-layer-91-dataView_4,dataSource_157-190f3ea6612-layer-91-dataView_5,dataSource_157-190f3ea6612-layer-91-dataView_6,dataSource_157-190f3ea6612-layer-91-dataView_7,dataSource_157-190f3ea6612-layer-91-dataView_8\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_6%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿COUNT({ObjectId})﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong><strong style=\"font-size: 22px; color: var(--info-900);\">  </strong></p><p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Transportation:</strong><strong style=\"font-size: 22px; color: rgb(255, 255, 255);\"><exp data-uniqueid=\"b6639782_39cb_731c_8bca_9302f49f0347\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2,dataSource_157-190f3ea6612-layer-91-dataView_3,dataSource_157-190f3ea6612-layer-91-dataView_4,dataSource_157-190f3ea6612-layer-91-dataView_5,dataSource_157-190f3ea6612-layer-91-dataView_6,dataSource_157-190f3ea6612-layer-91-dataView_7,dataSource_157-190f3ea6612-layer-91-dataView_8\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_7%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿COUNT({ObjectId})﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong><strong style=\"font-size: 22px; color: var(--info-900);\">  </strong></p><p style=\"text-align: left;\"><strong style=\"font-size: 22px; color: var(--info-900);\">Tourism:</strong><strong style=\"font-size: 22px; color: rgb(255, 255, 255);\"><exp data-uniqueid=\"aa4fa2df_a7ec_d84e_447d_4f4cffd57d01\" data-dsid=\"dataSource_157-190f3ea6612-layer-91-dataView_1,dataSource_157-190f3ea6612-layer-91-dataView_2,dataSource_157-190f3ea6612-layer-91-dataView_3,dataSource_157-190f3ea6612-layer-91-dataView_4,dataSource_157-190f3ea6612-layer-91-dataView_5,dataSource_157-190f3ea6612-layer-91-dataView_6,dataSource_157-190f3ea6612-layer-91-dataView_7,dataSource_157-190f3ea6612-layer-91-dataView_8\" data-expression=\"%7B%22name%22%3A%22COUNT(%7BObjectId%7D)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FUNCTION%22%2C%22exp%22%3A%22COUNT%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22(%22%7D%2C%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BObjectId%7D%22%2C%22dataSourceId%22%3A%22dataSource_157-190f3ea6612-layer-91-dataView_8%22%2C%22jimuFieldName%22%3A%22ObjectId%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22)%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿COUNT({ObjectId})﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong><strong style=\"font-size: 22px; color: var(--info-900);\">  </strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -68658,7 +68595,6 @@
       "label": "Text 60",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px; color: var(--info-900);\">POI</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -68680,7 +68616,6 @@
       "label": "Text 61",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px; color: var(--info-900);\">POI</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -68759,37 +68694,6 @@
           "LARGE": "layout_485"
         }
       }
-    },
-    "widget_956": {
-      "uri": "widgets/arcgis/legend/",
-      "version": "1.15.0",
-      "label": "Legend",
-      "config": {
-        "legendMode": "show-visible",
-        "style": {
-          "useCustom": false
-        },
-        "cardStyle": false,
-        "showBaseMap": false
-      },
-      "id": "widget_956",
-      "useMapWidgetIds": [
-        "widget_70"
-      ]
-    },
-    "widget_957": {
-      "uri": "widgets/arcgis/map-layers/",
-      "version": "1.15.0",
-      "label": "Map Layers",
-      "config": {
-        "useMapWidget": true,
-        "useTickBoxes": false
-      },
-      "id": "widget_957",
-      "useMapWidgetIds": [
-        "widget_70"
-      ],
-      "enableDataAction": false
     },
     "widget_958": {
       "uri": "widgets/slider-filter-test/",
@@ -68880,37 +68784,6 @@
           "LARGE": "layout_486"
         }
       }
-    },
-    "widget_962": {
-      "uri": "widgets/arcgis/legend/",
-      "version": "1.15.0",
-      "label": "Legend",
-      "config": {
-        "legendMode": "show-visible",
-        "style": {
-          "useCustom": false
-        },
-        "cardStyle": false,
-        "showBaseMap": false
-      },
-      "id": "widget_962",
-      "useMapWidgetIds": [
-        "widget_70"
-      ]
-    },
-    "widget_963": {
-      "uri": "widgets/arcgis/map-layers/",
-      "version": "1.15.0",
-      "label": "Map Layers",
-      "config": {
-        "useMapWidget": true,
-        "useTickBoxes": false
-      },
-      "id": "widget_963",
-      "useMapWidgetIds": [
-        "widget_70"
-      ],
-      "enableDataAction": false
     },
     "widget_964": {
       "uri": "widgets/slider-filter-test/",
@@ -92188,9 +92061,15 @@
       "page_6": []
     }
   ],
-  "timestamp": 1734458241535,
+  "timestamp": 1736352090486,
   "attributes": {
-    "portalUrl": "https://jcdisi.maps.arcgis.com"
+    "portalUrl": "https://jcdisi.maps.arcgis.com",
+    "isWebTier": false,
+    "clientId": "",
+    "title": "Age-Friendly Community(造就適老化社區)",
+    "description": "",
+    "type": "Web Experience",
+    "thumbnail": "thumbnail/thumbnail1730024963759.png"
   },
   "sharedThemeVariables": null,
   "customTheme": {
@@ -92252,5 +92131,6 @@
       "url": "https://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World",
       "source": "org"
     }
-  }
+  },
+  "publishTimestamp": 1736352099689
 }
