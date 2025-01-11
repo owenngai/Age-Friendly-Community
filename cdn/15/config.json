@@ -451,7 +451,8 @@
               "bottom": false
             },
             "vCenter": false,
-            "hCenter": false
+            "hCenter": false,
+            "lockLayout": false
           }
         }
       },
@@ -2242,7 +2243,10 @@
         "8": {
           "type": "WIDGET",
           "widgetId": "widget_954",
-          "bbox": {}
+          "bbox": {},
+          "setting": {
+            "lockLayout": false
+          }
         },
         "9": {
           "type": "WIDGET",
@@ -10999,7 +11003,8 @@
               "top": true,
               "bottom": false
             }
-          }
+          },
+          "isPending": true
         }
       },
       "type": "FIXED",
@@ -23629,7 +23634,7 @@
             },
             "widget_954": {
               "width": 492,
-              "height": 666
+              "height": 658
             }
           }
         },
@@ -68673,6 +68678,14 @@
             "widget_944": {
               "width": 758,
               "height": 248
+            },
+            "widget_969": {
+              "width": 376,
+              "height": 509
+            },
+            "widget_960": {
+              "width": 372,
+              "height": 515
             }
           }
         },
@@ -68763,6 +68776,14 @@
             "widget_944": {
               "width": 758,
               "height": 248
+            },
+            "widget_968": {
+              "width": 391,
+              "height": 524
+            },
+            "widget_966": {
+              "width": 399,
+              "height": 528
             }
           }
         },
@@ -92063,7 +92084,7 @@
       "page_6": []
     }
   ],
-  "timestamp": 1736614676340,
+  "timestamp": 1736615626498,
   "attributes": {
     "portalUrl": "https://jcdisi.maps.arcgis.com",
     "isWebTier": false,
@@ -92134,5 +92155,5 @@
       "source": "org"
     }
   },
-  "publishTimestamp": 1736614693978
+  "publishTimestamp": 1736615690603
 }
