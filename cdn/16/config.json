@@ -454,12 +454,35 @@
             "hCenter": false,
             "lockLayout": false
           }
+        },
+        "6": {
+          "type": "WIDGET",
+          "widgetId": "widget_970",
+          "bbox": {
+            "left": "94.8%",
+            "right": "0.70%",
+            "top": "8.00%",
+            "bottom": "83.3%",
+            "width": "3.4%",
+            "height": "6.7%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
         }
       },
       "type": "FIXED",
       "label": "Map FixedLayout",
       "order": [
-        "5"
+        "5",
+        "6"
       ]
     },
     "layout_61": {
@@ -5577,6 +5600,22 @@
               "bottom": false
             }
           }
+        },
+        "34": {
+          "type": "WIDGET",
+          "widgetId": "widget_971",
+          "bbox": {
+            "left": "50%",
+            "right": "0.0000%",
+            "top": "50%",
+            "bottom": "0.0000%",
+            "width": "2.0313%",
+            "height": "4.4444%"
+          },
+          "setting": {
+            "vCenter": true,
+            "hCenter": true
+          }
         }
       },
       "order": [
@@ -5594,7 +5633,8 @@
         "30",
         "31",
         "32",
-        "33"
+        "33",
+        "34"
       ]
     },
     "layout_218": {
@@ -7904,13 +7944,36 @@
             "vCenter": false,
             "hCenter": false
           }
+        },
+        "7": {
+          "type": "WIDGET",
+          "widgetId": "widget_972",
+          "bbox": {
+            "left": "96.0%",
+            "right": "0.70%",
+            "top": "8.00%",
+            "bottom": "86.0%",
+            "width": "3.4%",
+            "height": "6.7%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
         }
       },
       "type": "FIXED",
       "label": "Map FixedLayout",
       "order": [
         "3",
-        "6"
+        "6",
+        "7"
       ]
     },
     "layout_299": {
@@ -10974,13 +11037,36 @@
               "height": "AUTO"
             }
           }
+        },
+        "5": {
+          "type": "WIDGET",
+          "widgetId": "widget_973",
+          "bbox": {
+            "left": "93.1%",
+            "right": "0.70%",
+            "top": "8.00%",
+            "bottom": "74.9%",
+            "width": "3.4%",
+            "height": "6.7%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
         }
       },
       "type": "FIXED",
       "label": "Map FixedLayout",
       "order": [
         "3",
-        "4"
+        "4",
+        "5"
       ]
     },
     "layout_404": {
@@ -14419,8 +14505,8 @@
     "lockLayout": false,
     "viewPortSize": {
       "LARGE": {
-        "width": 1280,
-        "height": 800
+        "width": 1920,
+        "height": 1080
       }
     }
   },
@@ -68937,6 +69023,42 @@
       "useMapWidgetIds": [
         "widget_585"
       ]
+    },
+    "widget_970": {
+      "uri": "widgets/simple/",
+      "version": "1.15.0",
+      "label": "Simple",
+      "config": {
+        "exampleConfigProperty": "test"
+      },
+      "id": "widget_970"
+    },
+    "widget_971": {
+      "uri": "widgets/simple/",
+      "version": "1.15.0",
+      "label": "Simple 2",
+      "config": {
+        "exampleConfigProperty": "test"
+      },
+      "id": "widget_971"
+    },
+    "widget_972": {
+      "uri": "widgets/simple/",
+      "version": "1.15.0",
+      "label": "Simple 3",
+      "config": {
+        "exampleConfigProperty": "test"
+      },
+      "id": "widget_972"
+    },
+    "widget_973": {
+      "uri": "widgets/simple/",
+      "version": "1.15.0",
+      "label": "Simple 4",
+      "config": {
+        "exampleConfigProperty": "test"
+      },
+      "id": "widget_973"
     }
   },
   "widgetsManifest": {},
@@ -92084,7 +92206,7 @@
       "page_6": []
     }
   ],
-  "timestamp": 1736615626498,
+  "timestamp": 1736789815248,
   "attributes": {
     "portalUrl": "https://jcdisi.maps.arcgis.com",
     "isWebTier": false,
@@ -92155,5 +92277,5 @@
       "source": "org"
     }
   },
-  "publishTimestamp": 1736615690603
+  "publishTimestamp": 1736790072765
 }
