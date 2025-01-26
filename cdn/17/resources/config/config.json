@@ -1650,12 +1650,12 @@
           "bbox": {
             "width": 50
           },
-          "parent": "4"
+          "parent": "8"
         },
         "1": {
           "gridType": 3,
           "type": "WIDGET",
-          "parent": "6",
+          "parent": "10",
           "bbox": {
             "width": 50
           },
@@ -1667,20 +1667,37 @@
             "width": 100
           },
           "children": [
-            "4",
-            "6"
+            "8",
+            "10"
           ]
         },
         "3": {
           "gridType": 3,
           "type": "WIDGET",
-          "parent": "4",
           "bbox": {
             "width": 50
           },
-          "widgetId": "widget_242"
+          "widgetId": "widget_242",
+          "isPending": true
         },
-        "4": {
+        "5": {
+          "gridType": 3,
+          "type": "WIDGET",
+          "bbox": {
+            "width": 50
+          },
+          "widgetId": "widget_243",
+          "isPending": true
+        },
+        "7": {
+          "gridType": 3,
+          "type": "WIDGET",
+          "parent": "8",
+          "bbox": {
+            "width": 50
+          }
+        },
+        "8": {
           "gridType": 1,
           "parent": "2",
           "bbox": {
@@ -1688,19 +1705,18 @@
           },
           "children": [
             "0",
-            "3"
+            "7"
           ]
         },
-        "5": {
+        "9": {
           "gridType": 3,
           "type": "WIDGET",
-          "parent": "6",
+          "parent": "10",
           "bbox": {
             "width": 50
-          },
-          "widgetId": "widget_243"
+          }
         },
-        "6": {
+        "10": {
           "gridType": 1,
           "parent": "2",
           "bbox": {
@@ -1708,7 +1724,7 @@
           },
           "children": [
             "1",
-            "5"
+            "9"
           ]
         }
       },
@@ -5600,22 +5616,6 @@
               "bottom": false
             }
           }
-        },
-        "34": {
-          "type": "WIDGET",
-          "widgetId": "widget_971",
-          "bbox": {
-            "left": "50%",
-            "right": "0.0000%",
-            "top": "50%",
-            "bottom": "0.0000%",
-            "width": "2.0313%",
-            "height": "4.4444%"
-          },
-          "setting": {
-            "vCenter": true,
-            "hCenter": true
-          }
         }
       },
       "order": [
@@ -5633,8 +5633,7 @@
         "30",
         "31",
         "32",
-        "33",
-        "34"
+        "33"
       ]
     },
     "layout_218": {
@@ -6016,7 +6015,7 @@
         "1": {
           "gridType": 3,
           "type": "WIDGET",
-          "parent": "6",
+          "parent": "7",
           "bbox": {
             "width": 50
           },
@@ -6029,7 +6028,7 @@
           },
           "children": [
             "4",
-            "6"
+            "7"
           ]
         },
         "3": {
@@ -6055,13 +6054,21 @@
         "5": {
           "gridType": 3,
           "type": "WIDGET",
-          "parent": "6",
           "bbox": {
             "width": 50
           },
-          "widgetId": "widget_454"
+          "widgetId": "widget_454",
+          "isPending": true
         },
         "6": {
+          "gridType": 3,
+          "type": "WIDGET",
+          "parent": "7",
+          "bbox": {
+            "width": 50
+          }
+        },
+        "7": {
           "gridType": 1,
           "parent": "2",
           "bbox": {
@@ -6069,7 +6076,7 @@
           },
           "children": [
             "1",
-            "5"
+            "6"
           ]
         }
       },
@@ -7765,16 +7772,16 @@
           "bbox": {
             "width": 50
           },
-          "parent": "4"
+          "parent": "8"
         },
         "1": {
           "gridType": 3,
           "type": "WIDGET",
-          "parent": "6",
           "bbox": {
             "width": 50
           },
-          "widgetId": "widget_574"
+          "widgetId": "widget_574",
+          "isPending": true
         },
         "2": {
           "gridType": 0,
@@ -7782,20 +7789,37 @@
             "width": 100
           },
           "children": [
-            "4",
-            "6"
+            "8",
+            "11"
           ]
         },
         "3": {
           "gridType": 3,
           "type": "WIDGET",
-          "parent": "4",
           "bbox": {
             "width": 50
           },
-          "widgetId": "widget_575"
+          "widgetId": "widget_575",
+          "isPending": true
         },
-        "4": {
+        "5": {
+          "gridType": 3,
+          "type": "WIDGET",
+          "bbox": {
+            "width": 50
+          },
+          "widgetId": "widget_576",
+          "isPending": true
+        },
+        "7": {
+          "gridType": 3,
+          "type": "WIDGET",
+          "parent": "8",
+          "bbox": {
+            "width": 50
+          }
+        },
+        "8": {
           "gridType": 1,
           "parent": "2",
           "bbox": {
@@ -7803,27 +7827,34 @@
           },
           "children": [
             "0",
-            "3"
+            "7"
           ]
         },
-        "5": {
+        "9": {
           "gridType": 3,
           "type": "WIDGET",
-          "parent": "6",
+          "parent": "11",
           "bbox": {
             "width": 50
-          },
-          "widgetId": "widget_576"
+          }
         },
-        "6": {
+        "10": {
+          "gridType": 3,
+          "type": "WIDGET",
+          "parent": "11",
+          "bbox": {
+            "width": 50
+          }
+        },
+        "11": {
           "gridType": 1,
           "parent": "2",
           "bbox": {
             "width": 50
           },
           "children": [
-            "1",
-            "5"
+            "9",
+            "10"
           ]
         }
       },
@@ -7847,11 +7878,12 @@
             "width": 100
           },
           "gridType": 3,
-          "widgetId": "widget_573"
+          "widgetId": "widget_573",
+          "isPending": true
         }
       },
       "setting": {
-        "rootItem": "3"
+        "rootItem": null
       },
       "label": "Default"
     },
@@ -7919,7 +7951,8 @@
             "vCenter": false,
             "hCenter": false,
             "lockLayout": true
-          }
+          },
+          "isPending": true
         },
         "6": {
           "type": "WIDGET",
@@ -11014,7 +11047,8 @@
             "vCenter": false,
             "hCenter": false,
             "lockLayout": true
-          }
+          },
+          "isPending": true
         },
         "4": {
           "type": "WIDGET",
@@ -12023,7 +12057,7 @@
         "1": {
           "gridType": 3,
           "type": "WIDGET",
-          "parent": "6",
+          "parent": "9",
           "bbox": {
             "width": 50
           },
@@ -12036,7 +12070,7 @@
           },
           "children": [
             "4",
-            "6"
+            "9"
           ]
         },
         "3": {
@@ -12059,7 +12093,24 @@
             "3"
           ]
         },
-        "6": {
+        "7": {
+          "type": "WIDGET",
+          "gridType": 3,
+          "bbox": {
+            "width": 50
+          },
+          "widgetId": "widget_815",
+          "isPending": true
+        },
+        "8": {
+          "gridType": 3,
+          "type": "WIDGET",
+          "parent": "9",
+          "bbox": {
+            "width": 50
+          }
+        },
+        "9": {
           "gridType": 1,
           "parent": "2",
           "bbox": {
@@ -12067,17 +12118,8 @@
           },
           "children": [
             "1",
-            "7"
+            "8"
           ]
-        },
-        "7": {
-          "type": "WIDGET",
-          "gridType": 3,
-          "parent": "6",
-          "bbox": {
-            "width": 50
-          },
-          "widgetId": "widget_815"
         }
       },
       "type": "GRID",
@@ -12416,16 +12458,16 @@
           "bbox": {
             "width": 50
           },
-          "parent": "4"
+          "parent": "8"
         },
         "1": {
           "gridType": 3,
           "type": "WIDGET",
-          "parent": "6",
           "bbox": {
             "width": 50
           },
-          "widgetId": "widget_831"
+          "widgetId": "widget_831",
+          "isPending": true
         },
         "2": {
           "gridType": 0,
@@ -12433,20 +12475,37 @@
             "width": 100
           },
           "children": [
-            "4",
-            "6"
+            "8",
+            "11"
           ]
         },
         "3": {
           "gridType": 3,
           "type": "WIDGET",
-          "parent": "4",
           "bbox": {
             "width": 50
           },
-          "widgetId": "widget_832"
+          "widgetId": "widget_832",
+          "isPending": true
         },
-        "4": {
+        "5": {
+          "gridType": 3,
+          "type": "WIDGET",
+          "bbox": {
+            "width": 50
+          },
+          "widgetId": "widget_833",
+          "isPending": true
+        },
+        "7": {
+          "gridType": 3,
+          "type": "WIDGET",
+          "parent": "8",
+          "bbox": {
+            "width": 50
+          }
+        },
+        "8": {
           "gridType": 1,
           "parent": "2",
           "bbox": {
@@ -12454,27 +12513,34 @@
           },
           "children": [
             "0",
-            "3"
+            "7"
           ]
         },
-        "5": {
+        "9": {
           "gridType": 3,
           "type": "WIDGET",
-          "parent": "6",
+          "parent": "11",
           "bbox": {
             "width": 50
-          },
-          "widgetId": "widget_833"
+          }
         },
-        "6": {
+        "10": {
+          "gridType": 3,
+          "type": "WIDGET",
+          "parent": "11",
+          "bbox": {
+            "width": 50
+          }
+        },
+        "11": {
           "gridType": 1,
           "parent": "2",
           "bbox": {
             "width": 50
           },
           "children": [
-            "1",
-            "5"
+            "9",
+            "10"
           ]
         }
       },
@@ -12938,12 +13004,12 @@
           "bbox": {
             "width": 50
           },
-          "parent": "4"
+          "parent": "8"
         },
         "1": {
           "gridType": 3,
           "type": "WIDGET",
-          "parent": "6",
+          "parent": "10",
           "bbox": {
             "width": 50
           },
@@ -12955,20 +13021,37 @@
             "width": 100
           },
           "children": [
-            "4",
-            "6"
+            "8",
+            "10"
           ]
         },
         "3": {
           "gridType": 3,
           "type": "WIDGET",
-          "parent": "4",
           "bbox": {
             "width": 50
           },
-          "widgetId": "widget_856"
+          "widgetId": "widget_856",
+          "isPending": true
         },
-        "4": {
+        "5": {
+          "gridType": 3,
+          "type": "WIDGET",
+          "bbox": {
+            "width": 50
+          },
+          "widgetId": "widget_857",
+          "isPending": true
+        },
+        "7": {
+          "gridType": 3,
+          "type": "WIDGET",
+          "parent": "8",
+          "bbox": {
+            "width": 50
+          }
+        },
+        "8": {
           "gridType": 1,
           "parent": "2",
           "bbox": {
@@ -12976,19 +13059,18 @@
           },
           "children": [
             "0",
-            "3"
+            "7"
           ]
         },
-        "5": {
+        "9": {
           "gridType": 3,
           "type": "WIDGET",
-          "parent": "6",
+          "parent": "10",
           "bbox": {
             "width": 50
-          },
-          "widgetId": "widget_857"
+          }
         },
-        "6": {
+        "10": {
           "gridType": 1,
           "parent": "2",
           "bbox": {
@@ -12996,7 +13078,7 @@
           },
           "children": [
             "1",
-            "5"
+            "9"
           ]
         }
       },
@@ -13460,7 +13542,7 @@
         "1": {
           "gridType": 3,
           "type": "WIDGET",
-          "parent": "6",
+          "parent": "7",
           "bbox": {
             "width": 50
           },
@@ -13473,7 +13555,7 @@
           },
           "children": [
             "4",
-            "6"
+            "7"
           ]
         },
         "3": {
@@ -13499,13 +13581,21 @@
         "5": {
           "gridType": 3,
           "type": "WIDGET",
-          "parent": "6",
           "bbox": {
             "width": 50
           },
-          "widgetId": "widget_881"
+          "widgetId": "widget_881",
+          "isPending": true
         },
         "6": {
+          "gridType": 3,
+          "type": "WIDGET",
+          "parent": "7",
+          "bbox": {
+            "width": 50
+          }
+        },
+        "7": {
           "gridType": 1,
           "parent": "2",
           "bbox": {
@@ -13513,7 +13603,7 @@
           },
           "children": [
             "1",
-            "5"
+            "6"
           ]
         }
       },
@@ -13584,12 +13674,12 @@
           "bbox": {
             "width": 50
           },
-          "parent": "4"
+          "parent": "7"
         },
         "1": {
           "gridType": 3,
           "type": "WIDGET",
-          "parent": "6",
+          "parent": "9",
           "bbox": {
             "width": 50
           },
@@ -13601,20 +13691,37 @@
             "width": 100
           },
           "children": [
-            "4",
-            "6"
+            "7",
+            "9"
           ]
         },
         "3": {
           "gridType": 3,
           "type": "WIDGET",
-          "parent": "4",
           "bbox": {
             "width": 50
           },
-          "widgetId": "widget_886"
+          "widgetId": "widget_886",
+          "isPending": true
         },
-        "4": {
+        "5": {
+          "gridType": 3,
+          "type": "WIDGET",
+          "bbox": {
+            "width": 50
+          },
+          "widgetId": "widget_887",
+          "isPending": true
+        },
+        "6": {
+          "gridType": 3,
+          "type": "WIDGET",
+          "parent": "7",
+          "bbox": {
+            "width": 50
+          }
+        },
+        "7": {
           "gridType": 1,
           "parent": "2",
           "bbox": {
@@ -13622,19 +13729,18 @@
           },
           "children": [
             "0",
-            "3"
+            "6"
           ]
         },
-        "5": {
+        "8": {
           "gridType": 3,
           "type": "WIDGET",
-          "parent": "6",
+          "parent": "9",
           "bbox": {
             "width": 50
-          },
-          "widgetId": "widget_887"
+          }
         },
-        "6": {
+        "9": {
           "gridType": 1,
           "parent": "2",
           "bbox": {
@@ -13642,7 +13748,7 @@
           },
           "children": [
             "1",
-            "5"
+            "8"
           ]
         }
       },
@@ -13971,16 +14077,16 @@
           "bbox": {
             "width": 50
           },
-          "parent": "4"
+          "parent": "8"
         },
         "1": {
           "gridType": 3,
           "type": "WIDGET",
-          "parent": "6",
           "bbox": {
             "width": 50
           },
-          "widgetId": "widget_903"
+          "widgetId": "widget_903",
+          "isPending": true
         },
         "2": {
           "gridType": 0,
@@ -13988,20 +14094,37 @@
             "width": 100
           },
           "children": [
-            "4",
-            "6"
+            "8",
+            "11"
           ]
         },
         "3": {
           "gridType": 3,
           "type": "WIDGET",
-          "parent": "4",
           "bbox": {
             "width": 50
           },
-          "widgetId": "widget_904"
+          "widgetId": "widget_904",
+          "isPending": true
         },
-        "4": {
+        "5": {
+          "gridType": 3,
+          "type": "WIDGET",
+          "bbox": {
+            "width": 50
+          },
+          "widgetId": "widget_905",
+          "isPending": true
+        },
+        "7": {
+          "gridType": 3,
+          "type": "WIDGET",
+          "parent": "8",
+          "bbox": {
+            "width": 50
+          }
+        },
+        "8": {
           "gridType": 1,
           "parent": "2",
           "bbox": {
@@ -14009,27 +14132,34 @@
           },
           "children": [
             "0",
-            "3"
+            "7"
           ]
         },
-        "5": {
+        "9": {
           "gridType": 3,
           "type": "WIDGET",
-          "parent": "6",
+          "parent": "11",
           "bbox": {
             "width": 50
-          },
-          "widgetId": "widget_905"
+          }
         },
-        "6": {
+        "10": {
+          "gridType": 3,
+          "type": "WIDGET",
+          "parent": "11",
+          "bbox": {
+            "width": 50
+          }
+        },
+        "11": {
           "gridType": 1,
           "parent": "2",
           "bbox": {
             "width": 50
           },
           "children": [
-            "1",
-            "5"
+            "9",
+            "10"
           ]
         }
       },
@@ -14437,11 +14567,12 @@
             "width": 100
           },
           "gridType": 3,
-          "widgetId": "widget_920"
+          "widgetId": "widget_920",
+          "isPending": true
         }
       },
       "setting": {
-        "rootItem": "3"
+        "rootItem": null
       },
       "label": "Default"
     },
@@ -38078,12 +38209,12 @@
               "dataTooltipVisible": true,
               "slices": [
                 {
-                  "sliceId": "不同意",
-                  "label": "不同意",
+                  "sliceId": "地鐵",
+                  "label": "地鐵",
                   "fillSymbol": {
                     "type": "esriSFS",
                     "style": "esriSFSSolid",
-                    "color": "var(--danger-700)",
+                    "color": "#5E8FD0",
                     "outline": {
                       "type": "esriSLS",
                       "style": "esriSLSSolid",
@@ -38093,23 +38224,8 @@
                   }
                 },
                 {
-                  "sliceId": "不適用",
-                  "label": "不適用",
-                  "fillSymbol": {
-                    "type": "esriSFS",
-                    "style": "esriSFSSolid",
-                    "color": "var(--primary-600)",
-                    "outline": {
-                      "type": "esriSLS",
-                      "style": "esriSLSSolid",
-                      "color": "var(--light-100)",
-                      "width": 1
-                    }
-                  }
-                },
-                {
-                  "sliceId": "同意",
-                  "label": "同意",
+                  "sliceId": "巴士",
+                  "label": "巴士",
                   "fillSymbol": {
                     "type": "esriSFS",
                     "style": "esriSFSSolid",
@@ -38123,12 +38239,42 @@
                   }
                 },
                 {
-                  "sliceId": "沒意見",
-                  "label": "沒意見",
+                  "sliceId": "巴士;地鐵",
+                  "label": "巴士;地鐵",
                   "fillSymbol": {
                     "type": "esriSFS",
                     "style": "esriSFSSolid",
-                    "color": "#525252",
+                    "color": "#DF6B35",
+                    "outline": {
+                      "type": "esriSLS",
+                      "style": "esriSLSSolid",
+                      "color": "var(--light-100)",
+                      "width": 1
+                    }
+                  }
+                },
+                {
+                  "sliceId": "巴士;地鐵;小巴",
+                  "label": "巴士;地鐵;小巴",
+                  "fillSymbol": {
+                    "type": "esriSFS",
+                    "style": "esriSFSSolid",
+                    "color": "#DBCF4E",
+                    "outline": {
+                      "type": "esriSLS",
+                      "style": "esriSLSSolid",
+                      "color": "var(--light-100)",
+                      "width": 1
+                    }
+                  }
+                },
+                {
+                  "sliceId": "未有使用公共交通工具的經驗 （可跳過此部分）",
+                  "label": "未有使用公共交通工具的經驗 （可跳過此部分）",
+                  "fillSymbol": {
+                    "type": "esriSFS",
+                    "style": "esriSFSSolid",
+                    "color": "#41546D",
                     "outline": {
                       "type": "esriSLS",
                       "style": "esriSLSSolid",
@@ -56336,38 +56482,8 @@
               "dataTooltipVisible": true,
               "slices": [
                 {
-                  "sliceId": "不同意",
-                  "label": "不同意",
-                  "fillSymbol": {
-                    "type": "esriSFS",
-                    "style": "esriSFSSolid",
-                    "color": "var(--danger-700)",
-                    "outline": {
-                      "type": "esriSLS",
-                      "style": "esriSLSSolid",
-                      "color": "var(--light-100)",
-                      "width": 1
-                    }
-                  }
-                },
-                {
-                  "sliceId": "不適用",
-                  "label": "不適用",
-                  "fillSymbol": {
-                    "type": "esriSFS",
-                    "style": "esriSFSSolid",
-                    "color": "var(--primary-600)",
-                    "outline": {
-                      "type": "esriSLS",
-                      "style": "esriSLSSolid",
-                      "color": "var(--light-100)",
-                      "width": 1
-                    }
-                  }
-                },
-                {
-                  "sliceId": "同意",
-                  "label": "同意",
+                  "sliceId": "有",
+                  "label": "有",
                   "fillSymbol": {
                     "type": "esriSFS",
                     "style": "esriSFSSolid",
@@ -56381,12 +56497,12 @@
                   }
                 },
                 {
-                  "sliceId": "沒意見",
-                  "label": "沒意見",
+                  "sliceId": "沒有",
+                  "label": "沒有",
                   "fillSymbol": {
                     "type": "esriSFS",
                     "style": "esriSFSSolid",
-                    "color": "#525252",
+                    "color": "#fd5367",
                     "outline": {
                       "type": "esriSLS",
                       "style": "esriSLSSolid",
@@ -56593,27 +56709,12 @@
               "dataTooltipVisible": true,
               "slices": [
                 {
-                  "sliceId": "不同意",
-                  "label": "不同意",
-                  "fillSymbol": {
-                    "type": "esriSFS",
-                    "style": "esriSFSSolid",
-                    "color": "var(--danger-700)",
-                    "outline": {
-                      "type": "esriSLS",
-                      "style": "esriSLSSolid",
-                      "color": "var(--light-100)",
-                      "width": 1
-                    }
-                  }
-                },
-                {
                   "sliceId": "不適用",
                   "label": "不適用",
                   "fillSymbol": {
                     "type": "esriSFS",
                     "style": "esriSFSSolid",
-                    "color": "var(--primary-600)",
+                    "color": "var(--secondary-600)",
                     "outline": {
                       "type": "esriSLS",
                       "style": "esriSLSSolid",
@@ -56623,8 +56724,8 @@
                   }
                 },
                 {
-                  "sliceId": "同意",
-                  "label": "同意",
+                  "sliceId": "有",
+                  "label": "有",
                   "fillSymbol": {
                     "type": "esriSFS",
                     "style": "esriSFSSolid",
@@ -56638,12 +56739,12 @@
                   }
                 },
                 {
-                  "sliceId": "沒意見",
-                  "label": "沒意見",
+                  "sliceId": "沒有",
+                  "label": "沒有",
                   "fillSymbol": {
                     "type": "esriSFS",
                     "style": "esriSFSSolid",
-                    "color": "#525252",
+                    "color": "#fd5367",
                     "outline": {
                       "type": "esriSLS",
                       "style": "esriSLSSolid",
@@ -58736,7 +58837,7 @@
                   "fillSymbol": {
                     "type": "esriSFS",
                     "style": "esriSFSSolid",
-                    "color": "var(--danger-700)",
+                    "color": "#77B484",
                     "outline": {
                       "type": "esriSLS",
                       "style": "esriSLSSolid",
@@ -58751,7 +58852,7 @@
                   "fillSymbol": {
                     "type": "esriSFS",
                     "style": "esriSFSSolid",
-                    "color": "#77B484",
+                    "color": "#fd5367",
                     "outline": {
                       "type": "esriSLS",
                       "style": "esriSLSSolid",
@@ -58959,38 +59060,8 @@
               "dataTooltipVisible": true,
               "slices": [
                 {
-                  "sliceId": "不同意",
-                  "label": "不同意",
-                  "fillSymbol": {
-                    "type": "esriSFS",
-                    "style": "esriSFSSolid",
-                    "color": "var(--danger-700)",
-                    "outline": {
-                      "type": "esriSLS",
-                      "style": "esriSLSSolid",
-                      "color": "var(--light-100)",
-                      "width": 1
-                    }
-                  }
-                },
-                {
-                  "sliceId": "不適用",
-                  "label": "不適用",
-                  "fillSymbol": {
-                    "type": "esriSFS",
-                    "style": "esriSFSSolid",
-                    "color": "var(--primary-600)",
-                    "outline": {
-                      "type": "esriSLS",
-                      "style": "esriSLSSolid",
-                      "color": "var(--light-100)",
-                      "width": 1
-                    }
-                  }
-                },
-                {
-                  "sliceId": "同意",
-                  "label": "同意",
+                  "sliceId": "有",
+                  "label": "有",
                   "fillSymbol": {
                     "type": "esriSFS",
                     "style": "esriSFSSolid",
@@ -58998,23 +59069,23 @@
                     "outline": {
                       "type": "esriSLS",
                       "style": "esriSLSSolid",
-                      "color": "var(--light-100)",
-                      "width": 1
+                      "color": "var(--light-900)",
+                      "width": 0
                     }
                   }
                 },
                 {
-                  "sliceId": "沒意見",
-                  "label": "沒意見",
+                  "sliceId": "沒有",
+                  "label": "沒有",
                   "fillSymbol": {
                     "type": "esriSFS",
                     "style": "esriSFSSolid",
-                    "color": "#525252",
+                    "color": "#fd5367",
                     "outline": {
                       "type": "esriSLS",
                       "style": "esriSLSSolid",
-                      "color": "var(--light-100)",
-                      "width": 1
+                      "color": "var(--light-900)",
+                      "width": 0
                     }
                   }
                 }
@@ -60511,27 +60582,12 @@
               "dataTooltipVisible": true,
               "slices": [
                 {
-                  "sliceId": "不同意",
-                  "label": "不同意",
-                  "fillSymbol": {
-                    "type": "esriSFS",
-                    "style": "esriSFSSolid",
-                    "color": "var(--danger-700)",
-                    "outline": {
-                      "type": "esriSLS",
-                      "style": "esriSLSSolid",
-                      "color": "var(--light-100)",
-                      "width": 1
-                    }
-                  }
-                },
-                {
                   "sliceId": "不適用",
                   "label": "不適用",
                   "fillSymbol": {
                     "type": "esriSFS",
                     "style": "esriSFSSolid",
-                    "color": "var(--primary-600)",
+                    "color": "var(--secondary-500)",
                     "outline": {
                       "type": "esriSLS",
                       "style": "esriSLSSolid",
@@ -60541,8 +60597,8 @@
                   }
                 },
                 {
-                  "sliceId": "同意",
-                  "label": "同意",
+                  "sliceId": "有",
+                  "label": "有",
                   "fillSymbol": {
                     "type": "esriSFS",
                     "style": "esriSFSSolid",
@@ -60556,12 +60612,12 @@
                   }
                 },
                 {
-                  "sliceId": "沒意見",
-                  "label": "沒意見",
+                  "sliceId": "沒有",
+                  "label": "沒有",
                   "fillSymbol": {
                     "type": "esriSFS",
                     "style": "esriSFSSolid",
-                    "color": "#525252",
+                    "color": "#fd5367",
                     "outline": {
                       "type": "esriSLS",
                       "style": "esriSLSSolid",
@@ -68888,7 +68944,7 @@
       },
       "id": "widget_960",
       "useMapWidgetIds": [
-        "widget_70"
+        "widget_585"
       ]
     },
     "widget_961": {
@@ -68986,7 +69042,7 @@
       },
       "id": "widget_966",
       "useMapWidgetIds": [
-        "widget_70"
+        "widget_769"
       ]
     },
     "widget_967": {
@@ -69075,15 +69131,6 @@
         "exampleConfigProperty": "test"
       },
       "id": "widget_970"
-    },
-    "widget_971": {
-      "uri": "widgets/simple/",
-      "version": "1.15.0",
-      "label": "Simple 2",
-      "config": {
-        "exampleConfigProperty": "test"
-      },
-      "id": "widget_971"
     },
     "widget_972": {
       "uri": "widgets/simple/",
@@ -92249,7 +92296,7 @@
       "page_6": []
     }
   ],
-  "timestamp": 1736789815248,
+  "timestamp": 1737907570156,
   "attributes": {
     "portalUrl": "https://jcdisi.maps.arcgis.com"
   },
