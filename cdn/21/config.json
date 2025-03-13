@@ -64,29 +64,6 @@
     "layout_48": {
       "type": "FIXED",
       "content": {
-        "8": {
-          "type": "SECTION",
-          "sectionId": "section_5",
-          "bbox": {
-            "left": "0.0%",
-            "right": "0.0%",
-            "top": "5.6%",
-            "bottom": "0.4%",
-            "width": "100.0%",
-            "height": "94.0%"
-          },
-          "setting": {
-            "autoProps": {
-              "right": false,
-              "left": true,
-              "top": true,
-              "bottom": false
-            },
-            "lockLayout": true,
-            "vCenter": false,
-            "hCenter": false
-          }
-        },
         "9": {
           "type": "WIDGET",
           "widgetId": "widget_74",
@@ -178,29 +155,6 @@
           },
           "isPending": true
         },
-        "18": {
-          "type": "WIDGET",
-          "widgetId": "widget_70",
-          "bbox": {
-            "left": "0.0%",
-            "right": "40.0%",
-            "top": "13.7%",
-            "bottom": "19.5%",
-            "width": "60.0%",
-            "height": "66.8%"
-          },
-          "setting": {
-            "autoProps": {
-              "left": false,
-              "right": true,
-              "top": false,
-              "bottom": true
-            },
-            "vCenter": false,
-            "hCenter": false,
-            "lockLayout": false
-          }
-        },
         "19": {
           "type": "WIDGET",
           "widgetId": "widget_136",
@@ -221,7 +175,8 @@
             },
             "vCenter": false,
             "hCenter": false
-          }
+          },
+          "isPending": true
         },
         "20": {
           "type": "WIDGET",
@@ -270,12 +225,12 @@
           "type": "WIDGET",
           "widgetId": "widget_927",
           "bbox": {
-            "left": "63.8%",
+            "left": "76.7%",
             "right": "20.6%",
             "top": "0.0%",
-            "bottom": "87.5%",
-            "width": "15.6%",
-            "height": "12.5%"
+            "bottom": "97.2%",
+            "width": "2.7%",
+            "height": "2.8%"
           },
           "setting": {
             "autoProps": {
@@ -290,12 +245,12 @@
           "type": "WIDGET",
           "widgetId": "widget_928",
           "bbox": {
-            "left": "75.9%",
+            "left": "89.8%",
             "right": "8.4%",
             "top": "0.0%",
-            "bottom": "87.5%",
-            "width": "15.6%",
-            "height": "12.5%"
+            "bottom": "97.9%",
+            "width": "1.8%",
+            "height": "2.1%"
           },
           "setting": {
             "autoProps": {
@@ -310,12 +265,12 @@
           "type": "WIDGET",
           "widgetId": "widget_929",
           "bbox": {
-            "left": "84.4%",
+            "left": "97.3%",
             "right": "0.0%",
             "top": "0.0%",
-            "bottom": "87.5%",
-            "width": "15.6%",
-            "height": "12.5%"
+            "bottom": "97.2%",
+            "width": "2.7%",
+            "height": "2.8%"
           },
           "setting": {
             "autoProps": {
@@ -389,15 +344,231 @@
               "bottom": false
             }
           }
+        },
+        "30": {
+          "type": "WIDGET",
+          "widgetId": "widget_135",
+          "bbox": {
+            "left": "20.3%",
+            "right": "73.7%",
+            "top": "7.5%",
+            "bottom": "87.1%",
+            "width": "6.0%",
+            "height": "4.5%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "31": {
+          "type": "WIDGET",
+          "widgetId": "widget_142",
+          "bbox": {
+            "left": "26.3%",
+            "right": "67.4%",
+            "top": "7.5%",
+            "bottom": "88.0%",
+            "width": "6.3%",
+            "height": "4.5%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "32": {
+          "type": "WIDGET",
+          "widgetId": "widget_144",
+          "bbox": {
+            "left": "32.6%",
+            "right": "62.2%",
+            "top": "7.5%",
+            "bottom": "88.0%",
+            "width": "5.2%",
+            "height": "4.5%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "34": {
+          "type": "WIDGET",
+          "widgetId": "widget_143",
+          "bbox": {
+            "left": "45.6%",
+            "right": "47.4%",
+            "top": "7.5%",
+            "bottom": "88.0%",
+            "width": "7.0%",
+            "height": "4.5%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "35": {
+          "type": "WIDGET",
+          "widgetId": "widget_1058",
+          "bbox": {
+            "left": "52.5%",
+            "right": "44.5%",
+            "top": "7.7%",
+            "bottom": "87.8%",
+            "width": "3.0%",
+            "height": "4.5%"
+          },
+          "setting": {
+            "autoProps": {
+              "width": "AUTO",
+              "height": "AUTO",
+              "left": true,
+              "right": false,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "36": {
+          "type": "WIDGET",
+          "widgetId": "widget_145",
+          "bbox": {
+            "left": "37.8%",
+            "right": "54.4%",
+            "top": "7.5%",
+            "bottom": "88.0%",
+            "width": "7.8%",
+            "height": "4.5%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "37": {
+          "type": "WIDGET",
+          "widgetId": "widget_70",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "15.00%",
+            "bottom": "17.2%",
+            "width": "100.0%",
+            "height": "66.8%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "38": {
+          "type": "SECTION",
+          "sectionId": "section_5",
+          "bbox": {
+            "left": "59.0%",
+            "right": "0.0%",
+            "top": "14.8%",
+            "bottom": "18.3%",
+            "width": "41.0%",
+            "height": "66.9%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "39": {
+          "type": "WIDGET",
+          "widgetId": "widget_431",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.4%",
+            "top": "81.8%",
+            "bottom": "0.3%",
+            "width": "99.6%",
+            "height": "18.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            }
+          }
+        },
+        "40": {
+          "type": "WIDGET",
+          "widgetId": "widget_433",
+          "bbox": {
+            "left": "4.7%",
+            "right": "84.3%",
+            "top": "6.8%",
+            "bottom": "88.1%",
+            "width": "11.0%",
+            "height": "5.1%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            }
+          }
         }
       },
       "order": [
-        "8",
         "10",
         "9",
         "11",
         "12",
-        "18",
         "19",
         "20",
         "23",
@@ -406,7 +577,17 @@
         "26",
         "27",
         "28",
-        "29"
+        "29",
+        "30",
+        "31",
+        "32",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
       ]
     },
     "layout_49": {
@@ -415,7 +596,7 @@
           "type": "WIDGET",
           "widgetId": "widget_272",
           "bbox": {
-            "left": "91.7%",
+            "left": "1.00%",
             "right": "0.00%",
             "top": "87.7%",
             "bottom": "3.00%",
@@ -426,8 +607,8 @@
             "autoProps": {
               "width": "AUTO",
               "height": "AUTO",
-              "right": false,
-              "left": true,
+              "right": true,
+              "left": false,
               "top": true,
               "bottom": false
             },
@@ -440,17 +621,17 @@
           "type": "WIDGET",
           "widgetId": "widget_970",
           "bbox": {
-            "left": "94.8%",
-            "right": "0.70%",
-            "top": "8.00%",
-            "bottom": "83.3%",
-            "width": "3.4%",
-            "height": "6.7%"
+            "left": "0.8%",
+            "right": "97.1%",
+            "top": "7.8%",
+            "bottom": "85.7%",
+            "width": "1.9%",
+            "height": "6.5%"
           },
           "setting": {
             "autoProps": {
-              "right": false,
-              "left": true,
+              "right": true,
+              "left": false,
               "top": false,
               "bottom": true
             },
@@ -618,127 +799,10 @@
       "order": []
     },
     "layout_74": {
-      "content": {
-        "5": {
-          "type": "WIDGET",
-          "widgetId": "widget_135",
-          "bbox": {
-            "left": "0.0%",
-            "right": "0.3%",
-            "top": "8.4%",
-            "bottom": "75.2%",
-            "width": "99.7%",
-            "height": "16.4%"
-          },
-          "setting": {
-            "autoProps": {
-              "left": false,
-              "right": true,
-              "top": false,
-              "bottom": true
-            },
-            "vCenter": false,
-            "hCenter": false
-          }
-        },
-        "6": {
-          "type": "WIDGET",
-          "widgetId": "widget_142",
-          "bbox": {
-            "left": "0.0%",
-            "right": "0.2%",
-            "top": "24.9%",
-            "bottom": "58.8%",
-            "width": "99.8%",
-            "height": "16.3%"
-          },
-          "setting": {
-            "autoProps": {
-              "left": false,
-              "right": true,
-              "top": false,
-              "bottom": true
-            },
-            "vCenter": false,
-            "hCenter": false
-          }
-        },
-        "7": {
-          "type": "WIDGET",
-          "widgetId": "widget_145",
-          "bbox": {
-            "left": "0.0%",
-            "right": "0.3%",
-            "top": "57.7%",
-            "bottom": "25.9%",
-            "width": "99.7%",
-            "height": "16.4%"
-          },
-          "setting": {
-            "autoProps": {
-              "left": false,
-              "right": true,
-              "top": true,
-              "bottom": false
-            },
-            "vCenter": false,
-            "hCenter": false
-          }
-        },
-        "8": {
-          "type": "WIDGET",
-          "widgetId": "widget_144",
-          "bbox": {
-            "left": "0.0%",
-            "right": "0.3%",
-            "top": "41.2%",
-            "bottom": "42.4%",
-            "width": "99.7%",
-            "height": "16.4%"
-          },
-          "setting": {
-            "autoProps": {
-              "left": false,
-              "right": true,
-              "top": false,
-              "bottom": true
-            },
-            "vCenter": false,
-            "hCenter": false
-          }
-        },
-        "9": {
-          "type": "WIDGET",
-          "widgetId": "widget_143",
-          "bbox": {
-            "left": "0.0%",
-            "right": "0.3%",
-            "top": "74.1%",
-            "bottom": "9.5%",
-            "width": "99.7%",
-            "height": "16.4%"
-          },
-          "setting": {
-            "autoProps": {
-              "left": false,
-              "right": true,
-              "top": true,
-              "bottom": false
-            },
-            "vCenter": false,
-            "hCenter": false
-          }
-        }
-      },
+      "content": {},
       "type": "FIXED",
       "label": "First",
-      "order": [
-        "5",
-        "6",
-        "7",
-        "8",
-        "9"
-      ]
+      "order": []
     },
     "layout_75": {
       "content": {},
@@ -749,196 +813,30 @@
     "layout_88": {
       "type": "FIXED",
       "content": {
-        "0": {
+        "5": {
           "type": "WIDGET",
-          "widgetId": "widget_176",
+          "widgetId": "widget_1062",
           "bbox": {
-            "left": "59.5%",
+            "left": "0.0%",
             "right": "0.0%",
             "top": "0.0%",
-            "bottom": "22.5%",
-            "width": "40.00%",
-            "height": "100.00%"
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
           },
           "setting": {
             "autoProps": {
               "right": false,
               "left": true,
-              "top": false,
-              "bottom": true
-            }
-          }
-        },
-        "3": {
-          "type": "WIDGET",
-          "widgetId": "widget_187",
-          "bbox": {
-            "left": "0.0%",
-            "right": "39.8%",
-            "top": "77.7%",
-            "bottom": "0.2%",
-            "width": "60.00%",
-            "height": "20.00%"
-          },
-          "setting": {
-            "autoProps": {
-              "left": false,
-              "right": true,
               "top": true,
               "bottom": false
-            },
-            "vCenter": false,
-            "hCenter": false
-          }
-        },
-        "4": {
-          "type": "WIDGET",
-          "widgetId": "widget_214",
-          "bbox": {
-            "left": "5.00%",
-            "right": "79.7%",
-            "top": "0.00%",
-            "bottom": "94.3%",
-            "width": "30.00%",
-            "height": "6.00%"
-          },
-          "setting": {
-            "autoProps": {
-              "left": false,
-              "right": true,
-              "top": false,
-              "bottom": true
             }
           }
         }
       },
       "order": [
-        "0",
-        "3",
-        "4"
-      ]
-    },
-    "layout_89": {
-      "type": "GRID",
-      "order": [
-        "0",
-        "1",
-        "3",
-        "4",
-        "6",
-        "7",
-        "9",
-        "10",
-        "12"
-      ],
-      "content": {
-        "0": {
-          "type": "WIDGET",
-          "bbox": {
-            "width": 25.383333333333336
-          },
-          "gridType": 3,
-          "widgetId": "widget_177",
-          "expandable": false,
-          "isPending": true
-        },
-        "1": {
-          "type": "WIDGET",
-          "bbox": {
-            "width": 25.343333333333334
-          },
-          "gridType": 3,
-          "widgetId": "widget_178",
-          "expandable": false,
-          "isPending": true
-        },
-        "13": {
-          "gridType": 3,
-          "type": "WIDGET",
-          "bbox": {
-            "width": 25.319999999999997
-          },
-          "widgetId": "widget_179",
-          "expandable": false,
-          "isPending": true
-        },
-        "23": {
-          "gridType": 3,
-          "type": "WIDGET",
-          "bbox": {
-            "width": 79.78999999999999
-          },
-          "expandable": false,
-          "widgetId": "widget_218",
-          "parent": "25"
-        },
-        "24": {
-          "gridType": 3,
-          "type": "WIDGET",
-          "bbox": {
-            "width": 20.21
-          },
-          "widgetId": "widget_270",
-          "parent": "25"
-        },
-        "25": {
-          "gridType": 1,
-          "bbox": {
-            "width": 100
-          },
-          "children": [
-            "23",
-            "24"
-          ]
-        }
-      },
-      "setting": {
-        "rootItem": "25",
-        "resizable": false,
-        "splitSize": 1
-      },
-      "label": "Default"
-    },
-    "layout_90": {
-      "type": "GRID",
-      "order": [
-        "0",
-        "1",
-        "3",
         "5"
-      ],
-      "content": {
-        "3": {
-          "gridType": 3,
-          "type": "WIDGET",
-          "bbox": {
-            "width": 50
-          },
-          "parent": "5"
-        },
-        "4": {
-          "gridType": 3,
-          "type": "WIDGET",
-          "parent": "5",
-          "bbox": {
-            "width": 50
-          }
-        },
-        "5": {
-          "gridType": 0,
-          "bbox": {
-            "width": 100
-          },
-          "children": [
-            "3",
-            "4"
-          ]
-        }
-      },
-      "setting": {
-        "rootItem": "5"
-      },
-      "label": "Default"
+      ]
     },
     "layout_91": {
       "type": "FIXED",
@@ -1171,8 +1069,8 @@
           "bbox": {
             "left": "34.2%",
             "right": "32.0%",
-            "top": "94.9%",
-            "bottom": "1.4%",
+            "top": "93.5%",
+            "bottom": "2.8%",
             "width": "173px",
             "height": "22px"
           },
@@ -2285,123 +2183,30 @@
     "layout_129": {
       "type": "FIXED",
       "content": {
-        "0": {
+        "5": {
           "type": "WIDGET",
-          "widgetId": "widget_274",
+          "widgetId": "widget_1061",
           "bbox": {
-            "left": "59.5%",
+            "left": "0.0%",
             "right": "0.0%",
             "top": "0.0%",
-            "bottom": "22.5%",
-            "width": "40.00%",
-            "height": "100.00%"
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
           },
           "setting": {
             "autoProps": {
               "right": false,
               "left": true,
-              "top": false,
-              "bottom": true
-            }
-          }
-        },
-        "3": {
-          "type": "WIDGET",
-          "widgetId": "widget_326",
-          "bbox": {
-            "left": "0.0%",
-            "right": "39.8%",
-            "top": "77.7%",
-            "bottom": "0.2%",
-            "width": "60.00%",
-            "height": "20.00%"
-          },
-          "setting": {
-            "autoProps": {
-              "left": false,
-              "right": true,
               "top": true,
               "bottom": false
-            },
-            "vCenter": false,
-            "hCenter": false
-          }
-        },
-        "4": {
-          "type": "WIDGET",
-          "widgetId": "widget_328",
-          "bbox": {
-            "left": "5.00%",
-            "right": "79.7%",
-            "top": "0.00%",
-            "bottom": "94.3%",
-            "width": "25.00%",
-            "height": "6.00%"
-          },
-          "setting": {
-            "autoProps": {
-              "left": false,
-              "right": true,
-              "top": false,
-              "bottom": true
             }
           }
         }
       },
       "order": [
-        "0",
-        "3",
-        "4"
+        "5"
       ]
-    },
-    "layout_130": {
-      "type": "GRID",
-      "order": [
-        "3",
-        "4",
-        "6",
-        "7",
-        "9",
-        "10",
-        "12"
-      ],
-      "content": {
-        "23": {
-          "gridType": 3,
-          "type": "WIDGET",
-          "bbox": {
-            "width": 79.92
-          },
-          "expandable": false,
-          "parent": "25",
-          "widgetId": "widget_275"
-        },
-        "24": {
-          "gridType": 3,
-          "type": "WIDGET",
-          "parent": "25",
-          "bbox": {
-            "width": 20.08
-          },
-          "widgetId": "widget_325"
-        },
-        "25": {
-          "gridType": 1,
-          "bbox": {
-            "width": 100
-          },
-          "children": [
-            "23",
-            "24"
-          ]
-        }
-      },
-      "setting": {
-        "rootItem": "25",
-        "resizable": false,
-        "splitSize": 1
-      },
-      "label": "Default"
     },
     "layout_131": {
       "content": {
@@ -2452,8 +2257,8 @@
           "bbox": {
             "left": "34.2%",
             "right": "32.0%",
-            "top": "94.9%",
-            "bottom": "1.4%",
+            "top": "93.7%",
+            "bottom": "2.6%",
             "width": "173px",
             "height": "22px"
           },
@@ -3001,47 +2806,6 @@
       },
       "label": "Default"
     },
-    "layout_156": {
-      "type": "GRID",
-      "order": [
-        "0",
-        "1",
-        "3",
-        "5"
-      ],
-      "content": {
-        "3": {
-          "gridType": 3,
-          "type": "WIDGET",
-          "bbox": {
-            "width": 50
-          },
-          "parent": "5"
-        },
-        "4": {
-          "gridType": 3,
-          "type": "WIDGET",
-          "parent": "5",
-          "bbox": {
-            "width": 50
-          }
-        },
-        "5": {
-          "gridType": 0,
-          "bbox": {
-            "width": 100
-          },
-          "children": [
-            "3",
-            "4"
-          ]
-        }
-      },
-      "setting": {
-        "rootItem": "5"
-      },
-      "label": "Default"
-    },
     "layout_157": {
       "type": "FIXED",
       "content": {
@@ -3157,123 +2921,30 @@
     "layout_160": {
       "type": "FIXED",
       "content": {
-        "0": {
+        "5": {
           "type": "WIDGET",
-          "widgetId": "widget_333",
+          "widgetId": "widget_1063",
           "bbox": {
-            "left": "59.5%",
+            "left": "0.0%",
             "right": "0.0%",
             "top": "0.0%",
-            "bottom": "22.5%",
-            "width": "40.00%",
-            "height": "100.00%"
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
           },
           "setting": {
             "autoProps": {
               "right": false,
               "left": true,
-              "top": false,
-              "bottom": true
-            }
-          }
-        },
-        "3": {
-          "type": "WIDGET",
-          "widgetId": "widget_361",
-          "bbox": {
-            "left": "0.0%",
-            "right": "39.8%",
-            "top": "77.7%",
-            "bottom": "0.2%",
-            "width": "60.00%",
-            "height": "20.00%"
-          },
-          "setting": {
-            "autoProps": {
-              "left": false,
-              "right": true,
               "top": true,
               "bottom": false
-            },
-            "vCenter": false,
-            "hCenter": false
-          }
-        },
-        "4": {
-          "type": "WIDGET",
-          "widgetId": "widget_363",
-          "bbox": {
-            "left": "5.00%",
-            "right": "78.0%",
-            "top": "0.00%",
-            "bottom": "94.3%",
-            "width": "30.00%",
-            "height": "6.00%"
-          },
-          "setting": {
-            "autoProps": {
-              "left": false,
-              "right": true,
-              "top": false,
-              "bottom": true
             }
           }
         }
       },
       "order": [
-        "0",
-        "3",
-        "4"
+        "5"
       ]
-    },
-    "layout_161": {
-      "type": "GRID",
-      "order": [
-        "3",
-        "4",
-        "6",
-        "7",
-        "9",
-        "10",
-        "12"
-      ],
-      "content": {
-        "23": {
-          "gridType": 3,
-          "type": "WIDGET",
-          "bbox": {
-            "width": 79.92
-          },
-          "expandable": false,
-          "parent": "25",
-          "widgetId": "widget_334"
-        },
-        "24": {
-          "gridType": 3,
-          "type": "WIDGET",
-          "parent": "25",
-          "bbox": {
-            "width": 20.08
-          },
-          "widgetId": "widget_360"
-        },
-        "25": {
-          "gridType": 1,
-          "bbox": {
-            "width": 100
-          },
-          "children": [
-            "23",
-            "24"
-          ]
-        }
-      },
-      "setting": {
-        "rootItem": "25",
-        "resizable": false,
-        "splitSize": 1
-      },
-      "label": "Default"
     },
     "layout_162": {
       "content": {
@@ -3324,8 +2995,8 @@
           "bbox": {
             "left": "34.2%",
             "right": "32.0%",
-            "top": "94.9%",
-            "bottom": "1.4%",
+            "top": "94.4%",
+            "bottom": "1.9%",
             "width": "173px",
             "height": "22px"
           },
@@ -3613,47 +3284,6 @@
       },
       "label": "Default"
     },
-    "layout_175": {
-      "type": "GRID",
-      "order": [
-        "0",
-        "1",
-        "3",
-        "5"
-      ],
-      "content": {
-        "3": {
-          "gridType": 3,
-          "type": "WIDGET",
-          "bbox": {
-            "width": 50
-          },
-          "parent": "5"
-        },
-        "4": {
-          "gridType": 3,
-          "type": "WIDGET",
-          "parent": "5",
-          "bbox": {
-            "width": 50
-          }
-        },
-        "5": {
-          "gridType": 0,
-          "bbox": {
-            "width": 100
-          },
-          "children": [
-            "3",
-            "4"
-          ]
-        }
-      },
-      "setting": {
-        "rootItem": "5"
-      },
-      "label": "Default"
-    },
     "layout_176": {
       "type": "FIXED",
       "content": {
@@ -3769,16 +3399,16 @@
     "layout_179": {
       "type": "FIXED",
       "content": {
-        "0": {
+        "1": {
           "type": "WIDGET",
-          "widgetId": "widget_368",
+          "widgetId": "widget_1060",
           "bbox": {
-            "left": "59.5%",
+            "left": "0.0%",
             "right": "0.0%",
             "top": "0.0%",
-            "bottom": "22.5%",
-            "width": "40.00%",
-            "height": "100.00%"
+            "bottom": "0.3%",
+            "width": "100.0%",
+            "height": "99.7%"
           },
           "setting": {
             "autoProps": {
@@ -3788,104 +3418,11 @@
               "bottom": true
             }
           }
-        },
-        "3": {
-          "type": "WIDGET",
-          "widgetId": "widget_396",
-          "bbox": {
-            "left": "0.0%",
-            "right": "39.8%",
-            "top": "77.7%",
-            "bottom": "0.2%",
-            "width": "60.00%",
-            "height": "20.00%"
-          },
-          "setting": {
-            "autoProps": {
-              "left": false,
-              "right": true,
-              "top": true,
-              "bottom": false
-            },
-            "vCenter": false,
-            "hCenter": false
-          }
-        },
-        "4": {
-          "type": "WIDGET",
-          "widgetId": "widget_398",
-          "bbox": {
-            "left": "5.00%",
-            "right": "79.7%",
-            "top": "0.00%",
-            "bottom": "94.3%",
-            "width": "30.00%",
-            "height": "6.00%"
-          },
-          "setting": {
-            "autoProps": {
-              "left": false,
-              "right": true,
-              "top": false,
-              "bottom": true
-            }
-          }
         }
       },
       "order": [
-        "0",
-        "3",
-        "4"
+        "1"
       ]
-    },
-    "layout_180": {
-      "type": "GRID",
-      "order": [
-        "3",
-        "4",
-        "6",
-        "7",
-        "9",
-        "10",
-        "12"
-      ],
-      "content": {
-        "23": {
-          "gridType": 3,
-          "type": "WIDGET",
-          "bbox": {
-            "width": 79.92
-          },
-          "expandable": false,
-          "parent": "25",
-          "widgetId": "widget_369"
-        },
-        "24": {
-          "gridType": 3,
-          "type": "WIDGET",
-          "parent": "25",
-          "bbox": {
-            "width": 20.08
-          },
-          "widgetId": "widget_395"
-        },
-        "25": {
-          "gridType": 1,
-          "bbox": {
-            "width": 100
-          },
-          "children": [
-            "23",
-            "24"
-          ]
-        }
-      },
-      "setting": {
-        "rootItem": "25",
-        "resizable": false,
-        "splitSize": 1
-      },
-      "label": "Default"
     },
     "layout_181": {
       "content": {
@@ -3936,8 +3473,8 @@
           "bbox": {
             "left": "34.2%",
             "right": "32.0%",
-            "top": "94.9%",
-            "bottom": "1.4%",
+            "top": "93.0%",
+            "bottom": "3.3%",
             "width": "173px",
             "height": "22px"
           },
@@ -4356,47 +3893,6 @@
       },
       "label": "Default"
     },
-    "layout_194": {
-      "type": "GRID",
-      "order": [
-        "0",
-        "1",
-        "3",
-        "5"
-      ],
-      "content": {
-        "4": {
-          "gridType": 3,
-          "type": "WIDGET",
-          "bbox": {
-            "width": 50
-          },
-          "parent": "6"
-        },
-        "5": {
-          "gridType": 3,
-          "type": "WIDGET",
-          "parent": "6",
-          "bbox": {
-            "width": 50
-          }
-        },
-        "6": {
-          "gridType": 0,
-          "bbox": {
-            "width": 100
-          },
-          "children": [
-            "4",
-            "5"
-          ]
-        }
-      },
-      "setting": {
-        "rootItem": "6"
-      },
-      "label": "Default"
-    },
     "layout_195": {
       "type": "FIXED",
       "content": {
@@ -4512,68 +4008,6 @@
     "layout_198": {
       "type": "FIXED",
       "content": {
-        "0": {
-          "type": "WIDGET",
-          "widgetId": "widget_403",
-          "bbox": {
-            "left": "59.5%",
-            "right": "0.0%",
-            "top": "0.0%",
-            "bottom": "22.5%",
-            "width": "40.00%",
-            "height": "100.00%"
-          },
-          "setting": {
-            "autoProps": {
-              "right": false,
-              "left": true,
-              "top": false,
-              "bottom": true
-            }
-          }
-        },
-        "3": {
-          "type": "WIDGET",
-          "widgetId": "widget_431",
-          "bbox": {
-            "left": "0.0%",
-            "right": "39.8%",
-            "top": "77.7%",
-            "bottom": "0.2%",
-            "width": "60.00%",
-            "height": "20.00%"
-          },
-          "setting": {
-            "autoProps": {
-              "left": false,
-              "right": true,
-              "top": true,
-              "bottom": false
-            },
-            "vCenter": false,
-            "hCenter": false
-          }
-        },
-        "4": {
-          "type": "WIDGET",
-          "widgetId": "widget_433",
-          "bbox": {
-            "left": "5.00%",
-            "right": "79.7%",
-            "top": "0.00%",
-            "bottom": "94.3%",
-            "width": "20.00%",
-            "height": "6.00%"
-          },
-          "setting": {
-            "autoProps": {
-              "left": false,
-              "right": true,
-              "top": false,
-              "bottom": true
-            }
-          }
-        },
         "5": {
           "type": "WIDGET",
           "widgetId": "widget_432",
@@ -4596,63 +4030,32 @@
             "hCenter": false
           },
           "isPending": true
+        },
+        "6": {
+          "type": "WIDGET",
+          "widgetId": "widget_1059",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.5%",
+            "top": "0.0%",
+            "bottom": "0.1%",
+            "width": "99.5%",
+            "height": "99.9%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            }
+          }
         }
       },
       "order": [
-        "0",
-        "3",
-        "4",
-        "5"
+        "5",
+        "6"
       ]
-    },
-    "layout_199": {
-      "type": "GRID",
-      "order": [
-        "3",
-        "4",
-        "6",
-        "7",
-        "9",
-        "10",
-        "12"
-      ],
-      "content": {
-        "23": {
-          "gridType": 3,
-          "type": "WIDGET",
-          "bbox": {
-            "width": 79.92
-          },
-          "expandable": false,
-          "widgetId": "widget_404",
-          "parent": "25"
-        },
-        "24": {
-          "gridType": 3,
-          "type": "WIDGET",
-          "bbox": {
-            "width": 20.08
-          },
-          "widgetId": "widget_430",
-          "parent": "25"
-        },
-        "25": {
-          "gridType": 1,
-          "bbox": {
-            "width": 100
-          },
-          "children": [
-            "23",
-            "24"
-          ]
-        }
-      },
-      "setting": {
-        "rootItem": "25",
-        "resizable": false,
-        "splitSize": 1
-      },
-      "label": "Default"
     },
     "layout_200": {
       "content": {
@@ -4703,8 +4106,8 @@
           "bbox": {
             "left": "34.2%",
             "right": "32.0%",
-            "top": "94.9%",
-            "bottom": "1.4%",
+            "top": "93.5%",
+            "bottom": "2.8%",
             "width": "173px",
             "height": "22px"
           },
@@ -4744,8 +4147,8 @@
           "type": "WIDGET",
           "widgetId": "widget_405",
           "bbox": {
-            "left": "0.0%",
-            "right": "0.0%",
+            "left": "0.1%",
+            "right": "-0.1%",
             "top": "0.1%",
             "bottom": "0.0%",
             "width": "100.0%",
@@ -15645,6 +15048,192 @@
         "rootItem": "6"
       },
       "label": "Default"
+    },
+    "layout_489": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_1057",
+          "bbox": {}
+        }
+      },
+      "type": "FIXED",
+      "label": "Controller layout",
+      "order": [
+        "0"
+      ]
+    },
+    "layout_490": {
+      "content": {},
+      "type": "FIXED",
+      "label": "First"
+    },
+    "layout_491": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_404",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            }
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "Second",
+      "order": [
+        "0"
+      ]
+    },
+    "layout_492": {
+      "content": {},
+      "type": "FIXED",
+      "label": "First"
+    },
+    "layout_493": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_369",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false
+            }
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "Second",
+      "order": [
+        "0"
+      ]
+    },
+    "layout_494": {
+      "content": {},
+      "type": "FIXED",
+      "label": "First"
+    },
+    "layout_495": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_275",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "Second",
+      "order": [
+        "0"
+      ]
+    },
+    "layout_496": {
+      "content": {},
+      "type": "FIXED",
+      "label": "First"
+    },
+    "layout_497": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_218",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            }
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "Second",
+      "order": [
+        "0"
+      ]
+    },
+    "layout_498": {
+      "content": {},
+      "type": "FIXED",
+      "label": "First"
+    },
+    "layout_499": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_334",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "1.5%",
+            "width": "100.0%",
+            "height": "98.5%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": false,
+              "bottom": true
+            }
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "Second",
+      "order": [
+        "0"
+      ]
     }
   },
   "exbVersion": "1.15.0",
@@ -15667,8 +15256,8 @@
       "label": "Map 7",
       "config": {
         "toolConfig": {
-          "canZoom": true,
-          "canHome": true,
+          "canZoom": false,
+          "canHome": false,
           "canSearch": false,
           "canNavigation": true,
           "canOverviewMap": false,
@@ -15710,7 +15299,7 @@
           "rotation": 4.334553843301251,
           "viewType": "2d"
         },
-        "layoutIndex": 0
+        "layoutIndex": 1
       },
       "id": "widget_70",
       "layouts": {
@@ -16111,7 +15700,7 @@
             "openType": "_self"
           },
           "text": "Safety",
-          "toolTip": "",
+          "toolTip": "Safety",
           "toolTipExpression": null,
           "textExpression": null
         },
@@ -16120,16 +15709,16 @@
           "customStyle": {
             "regular": {
               "background": {
-                "color": "var(--light)",
+                "color": "var(--primary-500)",
                 "fillType": "fill"
               },
               "border": {
                 "type": "solid",
-                "color": "var(--light-300)",
+                "color": "var(--light-500)",
                 "width": "1px"
               },
               "text": {
-                "color": "var(--black)",
+                "color": "var(--info-900)",
                 "size": "14px"
               },
               "borderRadius": {
@@ -16300,7 +15889,7 @@
                 "width": "1px"
               },
               "text": {
-                "color": "var(--black)",
+                "color": "var(--info-900)",
                 "size": "14px"
               },
               "borderRadius": {
@@ -16378,7 +15967,7 @@
                 "width": "1px"
               },
               "text": {
-                "color": "var(--black)",
+                "color": "var(--info-900)",
                 "size": "14px"
               },
               "borderRadius": {
@@ -16456,7 +16045,7 @@
                 "width": "1px"
               },
               "text": {
-                "color": "var(--black)",
+                "color": "var(--info-900)",
                 "size": "14px"
               },
               "borderRadius": {
@@ -16534,7 +16123,7 @@
                 "width": "1px"
               },
               "text": {
-                "color": "var(--black)",
+                "color": "var(--info-900)",
                 "size": "14px"
               },
               "borderRadius": {
@@ -16582,18 +16171,6 @@
       "id": "widget_145",
       "useDataSourcesEnabled": false
     },
-    "widget_176": {
-      "uri": "widgets/layout/grid/",
-      "version": "1.15.0",
-      "label": "Grid 19",
-      "config": {},
-      "id": "widget_176",
-      "layouts": {
-        "DEFAULT": {
-          "LARGE": "layout_89"
-        }
-      }
-    },
     "widget_177": {
       "uri": "widgets/common/chart/",
       "version": "1.15.0",
@@ -16636,46 +16213,6 @@
         "dataSource_48"
       ],
       "enableDataAction": false
-    },
-    "widget_179": {
-      "uri": "widgets/common/chart/",
-      "version": "1.15.0",
-      "label": "Chart 64",
-      "config": {
-        "tools": {
-          "cursorEnable": true
-        },
-        "options": {
-          "hideEmptySeriesInLegend": false
-        }
-      },
-      "id": "widget_179",
-      "useDataSources": [],
-      "outputDataSources": [
-        "dataSource_49"
-      ],
-      "enableDataAction": false
-    },
-    "widget_187": {
-      "uri": "widgets/layout/grid/",
-      "version": "1.15.0",
-      "label": "Grid 20",
-      "config": {},
-      "id": "widget_187",
-      "layouts": {
-        "DEFAULT": {
-          "LARGE": "layout_90"
-        }
-      },
-      "style": {
-        "background": {
-          "color": "#2e374d",
-          "fillType": "fill",
-          "image": {
-            "url": ""
-          }
-        }
-      }
     },
     "widget_188": {
       "uri": "widgets/layout/grid/",
@@ -16864,19 +16401,6 @@
         }
       ],
       "useDataSourcesEnabled": true
-    },
-    "widget_214": {
-      "uri": "widgets/common/text/",
-      "version": "1.15.0",
-      "label": "Text 11",
-      "config": {
-        "text": "<p style=\"line-height: 2; text-align: center;\"><strong style=\"font-size: 24px; color: var(--info-900);\">Open Space - Service Support</strong><strong style=\"font-size: 24px;\">﻿</strong></p>",
-        "style": {
-          "verticalAlign": "start",
-          "wrap": true
-        }
-      },
-      "id": "widget_214"
     },
     "widget_216": {
       "uri": "widgets/layout/sidebar/",
@@ -24835,19 +24359,6 @@
         "widget_267_ouput"
       ]
     },
-    "widget_270": {
-      "uri": "widgets/common/text/",
-      "version": "1.15.0",
-      "label": "Text 14",
-      "config": {
-        "text": "<p style=\"text-align: center;\"><span style=\"font-size: 28px;\">Score:</span></p>",
-        "style": {
-          "verticalAlign": "start",
-          "wrap": true
-        }
-      },
-      "id": "widget_270"
-    },
     "widget_272": {
       "uri": "widgets/common/controller/",
       "version": "1.15.0",
@@ -24895,18 +24406,6 @@
       "layouts": {
         "controller": {
           "LARGE": "layout_128"
-        }
-      }
-    },
-    "widget_274": {
-      "uri": "widgets/layout/grid/",
-      "version": "1.15.0",
-      "label": "Grid 43",
-      "config": {},
-      "id": "widget_274",
-      "layouts": {
-        "DEFAULT": {
-          "LARGE": "layout_130"
         }
       }
     },
@@ -28863,53 +28362,6 @@
       },
       "id": "widget_324"
     },
-    "widget_325": {
-      "uri": "widgets/common/text/",
-      "version": "1.15.0",
-      "label": "Text 15",
-      "config": {
-        "text": "<p style=\"text-align: center;\"><span style=\"font-size: 28px;\">Score:</span></p>",
-        "style": {
-          "verticalAlign": "start",
-          "wrap": true
-        }
-      },
-      "id": "widget_325"
-    },
-    "widget_326": {
-      "uri": "widgets/layout/grid/",
-      "version": "1.15.0",
-      "label": "Grid 60",
-      "config": {},
-      "id": "widget_326",
-      "layouts": {
-        "DEFAULT": {
-          "LARGE": "layout_156"
-        }
-      },
-      "style": {
-        "background": {
-          "color": "#2e374d",
-          "fillType": "fill",
-          "image": {
-            "url": ""
-          }
-        }
-      }
-    },
-    "widget_328": {
-      "uri": "widgets/common/text/",
-      "version": "1.15.0",
-      "label": "Text 17",
-      "config": {
-        "text": "<p style=\"text-align: center; line-height: 2;\"><strong style=\"color: var(--info-900); font-size: 24px;\">Open Space - Comfort</strong><strong style=\"font-size: 24px;\">﻿</strong></p>",
-        "style": {
-          "verticalAlign": "start",
-          "wrap": true
-        }
-      },
-      "id": "widget_328"
-    },
     "widget_329": {
       "uri": "widgets/layout/grid/",
       "version": "1.15.0",
@@ -28974,18 +28426,6 @@
       "layouts": {
         "DEFAULT": {
           "MEDIUM": "layout_159"
-        }
-      }
-    },
-    "widget_333": {
-      "uri": "widgets/layout/grid/",
-      "version": "1.15.0",
-      "label": "Grid 63",
-      "config": {},
-      "id": "widget_333",
-      "layouts": {
-        "DEFAULT": {
-          "LARGE": "layout_161"
         }
       }
     },
@@ -30350,53 +29790,6 @@
       },
       "id": "widget_359"
     },
-    "widget_360": {
-      "uri": "widgets/common/text/",
-      "version": "1.15.0",
-      "label": "Text 18",
-      "config": {
-        "text": "<p style=\"text-align: center;\"><span style=\"font-size: 28px;\">Score:</span></p>",
-        "style": {
-          "verticalAlign": "start",
-          "wrap": true
-        }
-      },
-      "id": "widget_360"
-    },
-    "widget_361": {
-      "uri": "widgets/layout/grid/",
-      "version": "1.15.0",
-      "label": "Grid 72",
-      "config": {},
-      "id": "widget_361",
-      "layouts": {
-        "DEFAULT": {
-          "LARGE": "layout_175"
-        }
-      },
-      "style": {
-        "background": {
-          "color": "#2e374d",
-          "fillType": "fill",
-          "image": {
-            "url": ""
-          }
-        }
-      }
-    },
-    "widget_363": {
-      "uri": "widgets/common/text/",
-      "version": "1.15.0",
-      "label": "Text 20",
-      "config": {
-        "text": "<p style=\"line-height: 2; text-align: center;\"><strong style=\"font-size: 24px; color: var(--info-900);\">Open Space - Social Interaction</strong></p>",
-        "style": {
-          "verticalAlign": "start",
-          "wrap": true
-        }
-      },
-      "id": "widget_363"
-    },
     "widget_364": {
       "uri": "widgets/layout/grid/",
       "version": "1.15.0",
@@ -30461,18 +29854,6 @@
       "layouts": {
         "DEFAULT": {
           "MEDIUM": "layout_178"
-        }
-      }
-    },
-    "widget_368": {
-      "uri": "widgets/layout/grid/",
-      "version": "1.15.0",
-      "label": "Grid 75",
-      "config": {},
-      "id": "widget_368",
-      "layouts": {
-        "DEFAULT": {
-          "LARGE": "layout_180"
         }
       }
     },
@@ -33405,53 +32786,6 @@
       },
       "id": "widget_394"
     },
-    "widget_395": {
-      "uri": "widgets/common/text/",
-      "version": "1.15.0",
-      "label": "Text 21",
-      "config": {
-        "text": "<p style=\"text-align: center;\"><span style=\"font-size: 28px;\">Score:</span></p>",
-        "style": {
-          "verticalAlign": "start",
-          "wrap": true
-        }
-      },
-      "id": "widget_395"
-    },
-    "widget_396": {
-      "uri": "widgets/layout/grid/",
-      "version": "1.15.0",
-      "label": "Grid 84",
-      "config": {},
-      "id": "widget_396",
-      "layouts": {
-        "DEFAULT": {
-          "LARGE": "layout_194"
-        }
-      },
-      "style": {
-        "background": {
-          "color": "#2e374d",
-          "fillType": "fill",
-          "image": {
-            "url": ""
-          }
-        }
-      }
-    },
-    "widget_398": {
-      "uri": "widgets/common/text/",
-      "version": "1.15.0",
-      "label": "Text 23",
-      "config": {
-        "text": "<p style=\"line-height: 2; text-align: center;\"><strong style=\"font-size: 24px; color: var(--info-900);\">Open Space - Convenience</strong><strong style=\"font-size: 24px;\">﻿</strong></p>",
-        "style": {
-          "verticalAlign": "start",
-          "wrap": true
-        }
-      },
-      "id": "widget_398"
-    },
     "widget_399": {
       "uri": "widgets/layout/grid/",
       "version": "1.15.0",
@@ -33516,18 +32850,6 @@
       "layouts": {
         "DEFAULT": {
           "MEDIUM": "layout_197"
-        }
-      }
-    },
-    "widget_403": {
-      "uri": "widgets/layout/grid/",
-      "version": "1.15.0",
-      "label": "Grid 87",
-      "config": {},
-      "id": "widget_403",
-      "layouts": {
-        "DEFAULT": {
-          "LARGE": "layout_199"
         }
       }
     },
@@ -36188,19 +35510,6 @@
       },
       "id": "widget_429"
     },
-    "widget_430": {
-      "uri": "widgets/common/text/",
-      "version": "1.15.0",
-      "label": "Text 24",
-      "config": {
-        "text": "<p style=\"text-align: center;\"><span style=\"font-size: 28px;\">Score:</span></p>",
-        "style": {
-          "verticalAlign": "start",
-          "wrap": true
-        }
-      },
-      "id": "widget_430"
-    },
     "widget_431": {
       "uri": "widgets/layout/grid/",
       "version": "1.15.0",
@@ -36264,7 +35573,7 @@
       "version": "1.15.0",
       "label": "Text 26",
       "config": {
-        "text": "<p style=\"line-height: 2; text-align: center;\"><strong style=\"font-size: 24px; color: var(--info-900);\">Open Space - Safety</strong></p>",
+        "text": "<p style=\"text-align: center; line-height: 2;\"><strong style=\"color: var(--info-900); font-size: 24px;\">Open Space</strong></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true
@@ -75087,6 +74396,530 @@
           "presetStyle": "shadow-none"
         }
       }
+    },
+    "widget_1057": {
+      "uri": "widgets/common/text/",
+      "version": "1.15.0",
+      "icon": {
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"#000\" fill-rule=\"evenodd\" d=\"M8 1C4.15 1 1 4.15 1 8s3.15 7 7 7 7-3.15 7-7-3.15-7-7-7m1.167 11.667H6.834v-2.334h2.333zm-2.333-4.5V3.333h2.333v4.834z\" clip-rule=\"evenodd\"></path></svg>",
+        "properties": {
+          "filename": "WarningCircleFilled",
+          "color": "var(--primary-900)",
+          "originalName": "filled/suggested/warning-circle.svg",
+          "path": [
+            "suggestion",
+            "WarningCircleFilled"
+          ],
+          "isUploaded": false,
+          "inlineSvg": true
+        }
+      },
+      "label": "information",
+      "config": {
+        "text": "<p><span style=\"font-size: 24px;\">category's meaning</span></p><p><br></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_1057"
+    },
+    "widget_1058": {
+      "uri": "widgets/common/controller/",
+      "version": "1.15.0",
+      "icon": {
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"#000\" d=\"M8 5.5a1 1 0 1 0 0-2 1 1 0 0 0 0 2M6.5 7.5A.5.5 0 0 1 7 7h1.5v4.5h1a.5.5 0 0 1 0 1h-3a.5.5 0 0 1 0-1h1V8H7a.5.5 0 0 1-.5-.5\"></path><path fill=\"#000\" fill-rule=\"evenodd\" d=\"M8 16A8 8 0 1 1 8 0a8 8 0 0 1 0 16m0-1A7 7 0 1 0 8 1a7 7 0 0 0 0 14\" clip-rule=\"evenodd\"></path></svg>",
+        "properties": {
+          "filename": "InfoOutlined",
+          "color": "var(--dark-800)",
+          "originalName": "outlined/suggested/info.svg",
+          "path": [
+            "suggestion",
+            "InfoOutlined"
+          ],
+          "isUploaded": false,
+          "inlineSvg": true
+        }
+      },
+      "label": "Widget Controller 6",
+      "config": {
+        "behavior": {
+          "onlyOpenOne": true,
+          "openStarts": [],
+          "displayType": "STACK",
+          "vertical": false,
+          "size": {}
+        },
+        "appearance": {
+          "space": 0,
+          "advanced": false,
+          "card": {
+            "showLabel": false,
+            "labelGrowth": 10,
+            "avatar": {
+              "type": "primary",
+              "size": "default",
+              "shape": "circle"
+            }
+          }
+        }
+      },
+      "id": "widget_1058",
+      "layouts": {
+        "controller": {
+          "LARGE": "layout_489"
+        }
+      }
+    },
+    "widget_1059": {
+      "uri": "widgets/layout/sidebar/",
+      "version": "1.15.0",
+      "label": "Sidebar 7",
+      "config": {
+        "direction": "HORIZONTAL",
+        "collapseSide": "SECOND",
+        "overlay": false,
+        "size": "765px",
+        "divider": {
+          "visible": true,
+          "lineStyle": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          }
+        },
+        "resizable": false,
+        "toggleBtn": {
+          "visible": true,
+          "iconSource": 0,
+          "icon": "RIGHT",
+          "offsetX": -15,
+          "offsetY": 0,
+          "position": "CENTER",
+          "iconSize": 14,
+          "width": 15,
+          "height": 60,
+          "border": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          },
+          "color": {
+            "normal": {
+              "icon": {
+                "useTheme": false,
+                "color": "var(--black)"
+              },
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light)"
+              }
+            },
+            "hover": {
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light)"
+              }
+            }
+          },
+          "expandStyle": {
+            "style": {
+              "borderRadius": "92px 0 0 92px"
+            }
+          },
+          "collapseStyle": {
+            "style": {
+              "borderRadius": "92px 0 0 92px"
+            }
+          }
+        },
+        "defaultState": 1,
+        "firstPanelStyle": {
+          "background": {
+            "fillType": "fit",
+            "image": {
+              "url": ""
+            }
+          }
+        },
+        "secondPanelStyle": {
+          "background": {
+            "fillType": "stretch",
+            "image": {
+              "url": ""
+            }
+          }
+        }
+      },
+      "id": "widget_1059",
+      "layouts": {
+        "FIRST": {
+          "LARGE": "layout_490"
+        },
+        "SECOND": {
+          "LARGE": "layout_491"
+        }
+      }
+    },
+    "widget_1060": {
+      "uri": "widgets/layout/sidebar/",
+      "version": "1.15.0",
+      "label": "Sidebar 8",
+      "config": {
+        "direction": "HORIZONTAL",
+        "collapseSide": "SECOND",
+        "overlay": false,
+        "size": "765px",
+        "divider": {
+          "visible": true,
+          "lineStyle": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          }
+        },
+        "resizable": false,
+        "toggleBtn": {
+          "visible": true,
+          "iconSource": 0,
+          "icon": "RIGHT",
+          "offsetX": -15,
+          "offsetY": 0,
+          "position": "CENTER",
+          "iconSize": 14,
+          "width": 15,
+          "height": 60,
+          "border": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          },
+          "color": {
+            "normal": {
+              "icon": {
+                "useTheme": false,
+                "color": "var(--black)"
+              },
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light)"
+              }
+            },
+            "hover": {
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light)"
+              }
+            }
+          },
+          "expandStyle": {
+            "style": {
+              "borderRadius": "92px 0 0 92px"
+            }
+          },
+          "collapseStyle": {
+            "style": {
+              "borderRadius": "92px 0 0 92px"
+            }
+          }
+        },
+        "defaultState": 1,
+        "firstPanelStyle": {
+          "background": {
+            "fillType": "fit",
+            "image": {
+              "url": ""
+            }
+          }
+        },
+        "secondPanelStyle": {
+          "background": {
+            "fillType": "stretch",
+            "image": {
+              "url": ""
+            }
+          }
+        }
+      },
+      "id": "widget_1060",
+      "layouts": {
+        "FIRST": {
+          "LARGE": "layout_492"
+        },
+        "SECOND": {
+          "LARGE": "layout_493"
+        }
+      }
+    },
+    "widget_1061": {
+      "uri": "widgets/layout/sidebar/",
+      "version": "1.15.0",
+      "label": "Sidebar 9",
+      "config": {
+        "direction": "HORIZONTAL",
+        "collapseSide": "SECOND",
+        "overlay": false,
+        "size": "765px",
+        "divider": {
+          "visible": true,
+          "lineStyle": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          }
+        },
+        "resizable": false,
+        "toggleBtn": {
+          "visible": true,
+          "iconSource": 0,
+          "icon": "RIGHT",
+          "offsetX": -15,
+          "offsetY": 0,
+          "position": "CENTER",
+          "iconSize": 14,
+          "width": 15,
+          "height": 60,
+          "border": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          },
+          "color": {
+            "normal": {
+              "icon": {
+                "useTheme": false,
+                "color": "var(--black)"
+              },
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light)"
+              }
+            },
+            "hover": {
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light)"
+              }
+            }
+          },
+          "expandStyle": {
+            "style": {
+              "borderRadius": "92px 0 0 92px"
+            }
+          },
+          "collapseStyle": {
+            "style": {
+              "borderRadius": "92px 0 0 92px"
+            }
+          }
+        },
+        "defaultState": 1,
+        "firstPanelStyle": {
+          "background": {
+            "fillType": "fit",
+            "image": {
+              "url": ""
+            }
+          }
+        },
+        "secondPanelStyle": {
+          "background": {
+            "fillType": "stretch",
+            "image": {
+              "url": ""
+            }
+          }
+        }
+      },
+      "id": "widget_1061",
+      "layouts": {
+        "FIRST": {
+          "LARGE": "layout_494"
+        },
+        "SECOND": {
+          "LARGE": "layout_495"
+        }
+      }
+    },
+    "widget_1062": {
+      "uri": "widgets/layout/sidebar/",
+      "version": "1.15.0",
+      "label": "Sidebar 10",
+      "config": {
+        "direction": "HORIZONTAL",
+        "collapseSide": "SECOND",
+        "overlay": false,
+        "size": "765px",
+        "divider": {
+          "visible": true,
+          "lineStyle": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          }
+        },
+        "resizable": false,
+        "toggleBtn": {
+          "visible": true,
+          "iconSource": 0,
+          "icon": "RIGHT",
+          "offsetX": -15,
+          "offsetY": 0,
+          "position": "CENTER",
+          "iconSize": 14,
+          "width": 15,
+          "height": 60,
+          "border": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          },
+          "color": {
+            "normal": {
+              "icon": {
+                "useTheme": false,
+                "color": "var(--black)"
+              },
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light)"
+              }
+            },
+            "hover": {
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light)"
+              }
+            }
+          },
+          "expandStyle": {
+            "style": {
+              "borderRadius": "92px 0 0 92px"
+            }
+          },
+          "collapseStyle": {
+            "style": {
+              "borderRadius": "92px 0 0 92px"
+            }
+          }
+        },
+        "defaultState": 1,
+        "firstPanelStyle": {
+          "background": {
+            "fillType": "fit",
+            "image": {
+              "url": ""
+            }
+          }
+        },
+        "secondPanelStyle": {
+          "background": {
+            "fillType": "stretch",
+            "image": {
+              "url": ""
+            }
+          }
+        }
+      },
+      "id": "widget_1062",
+      "layouts": {
+        "FIRST": {
+          "LARGE": "layout_496"
+        },
+        "SECOND": {
+          "LARGE": "layout_497"
+        }
+      }
+    },
+    "widget_1063": {
+      "uri": "widgets/layout/sidebar/",
+      "version": "1.15.0",
+      "label": "Sidebar 11",
+      "config": {
+        "direction": "HORIZONTAL",
+        "collapseSide": "SECOND",
+        "overlay": false,
+        "size": "765px",
+        "divider": {
+          "visible": true,
+          "lineStyle": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          }
+        },
+        "resizable": false,
+        "toggleBtn": {
+          "visible": true,
+          "iconSource": 0,
+          "icon": "RIGHT",
+          "offsetX": -15,
+          "offsetY": 0,
+          "position": "CENTER",
+          "iconSize": 14,
+          "width": 15,
+          "height": 60,
+          "border": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          },
+          "color": {
+            "normal": {
+              "icon": {
+                "useTheme": false,
+                "color": "var(--black)"
+              },
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light)"
+              }
+            },
+            "hover": {
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light)"
+              }
+            }
+          },
+          "expandStyle": {
+            "style": {
+              "borderRadius": "92px 0 0 92px"
+            }
+          },
+          "collapseStyle": {
+            "style": {
+              "borderRadius": "92px 0 0 92px"
+            }
+          }
+        },
+        "defaultState": 1,
+        "firstPanelStyle": {
+          "background": {
+            "fillType": "fit",
+            "image": {
+              "url": ""
+            }
+          }
+        },
+        "secondPanelStyle": {
+          "background": {
+            "fillType": "stretch",
+            "image": {
+              "url": ""
+            }
+          }
+        }
+      },
+      "id": "widget_1063",
+      "layouts": {
+        "FIRST": {
+          "LARGE": "layout_498"
+        },
+        "SECOND": {
+          "LARGE": "layout_499"
+        }
+      }
     }
   },
   "widgetsManifest": {},
@@ -75097,7 +74930,11 @@
       "layout": {
         "LARGE": "layout_88",
         "MEDIUM": "layout_91"
-      }
+      },
+      "backgroundPosition": "fit",
+      "backgroundColor": "rgba(0,0,0,0)",
+      "backgroundIMage": {},
+      "lazyLoad": true
     },
     "view_31": {
       "id": "view_31",
@@ -75161,7 +74998,11 @@
       "layout": {
         "LARGE": "layout_129",
         "MEDIUM": "layout_157"
-      }
+      },
+      "lazyLoad": true,
+      "backgroundPosition": "fit",
+      "backgroundColor": "rgba(0,0,0,0)",
+      "backgroundIMage": {}
     },
     "view_40": {
       "id": "view_40",
@@ -75197,7 +75038,11 @@
       "layout": {
         "LARGE": "layout_160",
         "MEDIUM": "layout_176"
-      }
+      },
+      "backgroundPosition": "fit",
+      "backgroundColor": "rgba(0,0,0,0)",
+      "backgroundIMage": {},
+      "lazyLoad": true
     },
     "view_45": {
       "id": "view_45",
@@ -75219,7 +75064,11 @@
       "layout": {
         "LARGE": "layout_179",
         "MEDIUM": "layout_195"
-      }
+      },
+      "lazyLoad": true,
+      "backgroundPosition": "fit",
+      "backgroundColor": "rgba(0,0,0,0)",
+      "backgroundIMage": {}
     },
     "view_48": {
       "id": "view_48",
@@ -75248,7 +75097,10 @@
       "layout": {
         "LARGE": "layout_198",
         "MEDIUM": "layout_214"
-      }
+      },
+      "backgroundPosition": "fit",
+      "backgroundColor": "rgba(0,0,0,0)",
+      "backgroundIMage": {}
     },
     "view_53": {
       "id": "view_53",
@@ -80860,51 +80712,6 @@
       "schema": {
         "idField": "__outputid__",
         "label": "Chart 13 statistics 4",
-        "fields": {
-          "__outputid__": {
-            "jimuName": "__outputid__",
-            "alias": "OBJECTID",
-            "type": "NUMBER",
-            "name": "__outputid__"
-          },
-          "Answer": {
-            "jimuName": "Answer",
-            "name": "Answer",
-            "type": "STRING",
-            "esriType": "esriFieldTypeString",
-            "alias": "Answer",
-            "format": null,
-            "originFields": [
-              "Answer"
-            ]
-          },
-          "count_of_ObjectId": {
-            "jimuName": "count_of_ObjectId",
-            "name": "count_of_ObjectId",
-            "type": "NUMBER",
-            "esriType": "esriFieldTypeOID",
-            "alias": "Count of ObjectId",
-            "format": {
-              "digitSeparator": false,
-              "places": 0
-            },
-            "originFields": [
-              "ObjectId"
-            ]
-          }
-        }
-      }
-    },
-    "dataSource_49": {
-      "id": "dataSource_49",
-      "type": "FEATURE_LAYER",
-      "label": "Chart 64 statistics",
-      "originDataSources": [],
-      "isOutputFromWidget": true,
-      "isDataInDataSourceInstance": true,
-      "schema": {
-        "idField": "__outputid__",
-        "label": "Chart 23 statistics 4",
         "fields": {
           "__outputid__": {
             "jimuName": "__outputid__",
@@ -93916,7 +93723,7 @@
       "isDataInDataSourceInstance": true,
       "schema": {
         "idField": "__outputid__",
-        "label": "Chart 442 statistics 2",
+        "label": "Chart 447 statistics",
         "fields": {
           "__outputid__": {
             "jimuName": "__outputid__",
@@ -94144,7 +93951,7 @@
       "isDataInDataSourceInstance": true,
       "schema": {
         "idField": "__outputid__",
-        "label": "Chart 442 statistics 2",
+        "label": "Chart 448 statistics",
         "fields": {
           "__outputid__": {
             "jimuName": "__outputid__",
@@ -100627,7 +100434,7 @@
       "page_6": []
     }
   ],
-  "timestamp": 1740327957638,
+  "timestamp": 1741882501548,
   "attributes": {
     "portalUrl": "https://jcdisi.maps.arcgis.com",
     "isWebTier": false,
@@ -100698,5 +100505,5 @@
       "source": "org"
     }
   },
-  "publishTimestamp": 1740330571751
+  "publishTimestamp": 1741884414668
 }
